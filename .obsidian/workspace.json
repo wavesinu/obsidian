@@ -4,34 +4,54 @@
     "type": "split",
     "children": [
       {
-        "id": "6d1021849d8f8fc4",
-        "type": "tabs",
+        "id": "121fa5dd580552f2",
+        "type": "split",
         "children": [
           {
-            "id": "720deefd530f9da5",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
+            "id": "6d1021849d8f8fc4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "720deefd530f9da5",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Dev/Database/DBMS 언어.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  },
+                  "pinned": true
+                },
+                "group": "d570d16f5aa5274e"
+              }
+            ]
           },
           {
-            "id": "04cba934d6f2f148",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/Database/Transaction.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+            "id": "db46eab4e50af09a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b5b8645dabc3e209",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Dev/Database/DBMS 언어.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "pinned": true
+                },
+                "group": "d570d16f5aa5274e"
               }
-            }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -81,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5024719238281,
-    "collapsed": true
+    "width": 321.5024719238281
   },
   "right": {
     "id": "2536babc4bac487d",
@@ -99,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/Database/Transaction.md",
+                "file": "Dev/Database/DBMS 언어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,13 +135,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/Database/Transaction.md",
+                "file": "Dev/Database/DBMS 언어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ddfd708bae6e1010",
@@ -153,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/Database/Transaction.md"
+                "file": "Dev/Database/DBMS 언어.md"
               }
             }
           }
@@ -161,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,10 +193,10 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "04cba934d6f2f148",
+  "active": "b5b8645dabc3e209",
   "lastOpenFiles": [
-    "Dev/Database/Transaction.md",
     "Dev/Database/DBMS 언어.md",
+    "Dev/Database/Transaction.md",
     "Dev/Database/DBMS의 분류.md",
     "Attatchments/Pasted image 20230831174541.png",
     "README.md",
