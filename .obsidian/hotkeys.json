@@ -1,1 +1,18 @@
-{}
+{
+  "editing-toolbar:editor:toggle-code": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "markdown:toggle-preview": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "A"
+    }
+  ]
+}

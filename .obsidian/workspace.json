@@ -4,54 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "121fa5dd580552f2",
-        "type": "split",
+        "id": "93fc66236514ed00",
+        "type": "tabs",
         "children": [
           {
-            "id": "6d1021849d8f8fc4",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "720deefd530f9da5",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Dev/Database/DBMS 언어.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  },
-                  "pinned": true
-                },
-                "group": "d570d16f5aa5274e"
-              }
-            ]
+            "id": "553b153e0b06da04",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           },
           {
-            "id": "db46eab4e50af09a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b5b8645dabc3e209",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "outgoing-link",
-                  "state": {
-                    "file": "Dev/Database/DBMS 언어.md",
-                    "linksCollapsed": false,
-                    "unlinkedCollapsed": true
-                  },
-                  "pinned": true
-                },
-                "group": "d570d16f5aa5274e"
+            "id": "7fa95a957df41d81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "요청 매핑 핸들러 어댑터 구조.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
-            ]
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5024719238281
+    "width": 350.50312423706055,
+    "collapsed": true
   },
   "right": {
     "id": "2536babc4bac487d",
@@ -118,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/Database/DBMS 언어.md",
+                "file": "요청 매핑 핸들러 어댑터 구조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/Database/DBMS 언어.md",
+                "file": "요청 매핑 핸들러 어댑터 구조.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/Database/DBMS 언어.md"
+                "file": "요청 매핑 핸들러 어댑터 구조.md"
               }
             }
           }
@@ -181,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 340.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,12 +173,14 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "b5b8645dabc3e209",
+  "active": "7fa95a957df41d81",
   "lastOpenFiles": [
+    "요청 매핑 핸들러 어댑터 구조.md",
+    "HTTP 메시지 컨버터.md",
     "Dev/Database/DBMS 언어.md",
+    "Attatchments/Pasted image 20230831174541.png",
     "Dev/Database/Transaction.md",
     "Dev/Database/DBMS의 분류.md",
-    "Attatchments/Pasted image 20230831174541.png",
     "README.md",
     "Attatchments",
     "Dev/Database/center.md",

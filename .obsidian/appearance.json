@@ -1,7 +1,7 @@
 {
-  "accentColor": "",
-  "cssTheme": "",
-  "theme": "system",
+  "accentColor": "#bfbfbf",
+  "cssTheme": "Minimal",
+  "theme": "moonstone",
   "monospaceFontFamily": "JetBrains Mono,JetBrains Mono NL",
   "translucency": true
 }

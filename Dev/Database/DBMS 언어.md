@@ -7,7 +7,7 @@ ___
 - **ALTER**
 - **DROP**
 - **TRUNCATE**
-> [!faq]- <font color="#000000">DML과 DCL</font>
+> [!faq]- DML과 DCL
 > **DML(Data Manipulation Language)**
 > 정의된 데이터베이스에 입력된 레코드를 조회하거나 수정하거나 삭제하는 등의 역할을 하는 언어
 > - select : 데이터 조회
