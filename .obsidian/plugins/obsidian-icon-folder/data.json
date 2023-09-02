@@ -29,7 +29,17 @@
     "iconName": null,
     "inheritanceIcon": "TiTemplate"
   },
-  "Dev/Algorithms": "TiBinaryTree",
-  "Dev/Data Structures": "TiBox",
-  "Dev/Java": "TiCoffee"
+  "Dev/Algorithms": {
+    "iconName": "TiBinaryTree",
+    "inheritanceIcon": "TiList"
+  },
+  "Dev/Java": "TiCoffee",
+  "Spring boot": {
+    "iconName": null,
+    "inheritanceIcon": "TiList"
+  },
+  "Dev/Data Structures": {
+    "iconName": "TiBox",
+    "inheritanceIcon": "TiList"
+  }
 }

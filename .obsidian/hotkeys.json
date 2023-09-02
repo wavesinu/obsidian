@@ -7,12 +7,29 @@
       "key": "E"
     }
   ],
-  "markdown:toggle-preview": [
+  "markdown:toggle-preview": [],
+  "editor:insert-tag": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "T"
+    }
+  ],
+  "app:toggle-left-sidebar": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "A"
+      "key": "\\"
+    }
+  ],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "."
     }
   ]
 }
