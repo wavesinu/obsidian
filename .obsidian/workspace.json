@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7979fc7cc1cde68b",
+        "id": "0c6d7a053b64c1c6",
         "type": "tabs",
         "children": [
           {
-            "id": "be8880feed42b58b",
+            "id": "7b646286e1291fd7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring boot/요청 매핑 핸들러 어댑터 구조.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#spring",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5024719238281
+    "width": 369.5
   },
   "right": {
     "id": "2536babc4bac487d",
@@ -87,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring boot/요청 매핑 핸들러 어댑터 구조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring boot/요청 매핑 핸들러 어댑터 구조.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Spring boot/요청 매핑 핸들러 어댑터 구조.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -163,20 +154,32 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "be8880feed42b58b",
+  "active": "7b646286e1291fd7",
   "lastOpenFiles": [
-    "Spring boot/HTTP 메시지 컨버터.md",
+    "Dev/Spring boot/Thymeleaf/Thymeleaf 사용 방법.md",
+    "Dev/Spring boot/RedirectAttributes.md",
+    "SSR.md",
+    "Dev/Design Pattern/PRG Pattern.md",
+    "Dev/Design Pattern",
+    "Dev/SQL/MySQL",
+    "Dev/SQL",
+    "Attatchments/SC 2023-09-03.png",
+    "Templates/Note Taking Template.md",
+    "Dev/Network/Status Code.md",
+    "Dev/Network",
+    "README.md",
+    "Untitled 1.md",
     "Spring boot/Untitled.md",
+    "Dev/Spring boot/Thymeleaf",
+    "Spring boot/Thymeleaf.md",
+    "Dev/Spring boot/요청 매핑 핸들러 어댑터 구조.md",
+    "Dev/Spring boot/HTTP 메시지 컨버터.md",
     "Dev/Database/DBMS 언어.md",
     "Dev/Java/Logging.md",
-    "Spring boot/요청 매핑 핸들러 어댑터 구조.md",
-    "Templates/Note Taking Template.md",
-    "README.md",
     "Untitled Kanban.md",
-    "Untitled.md",
     "Untitled",
     "Attatchments/SC 2023-09-02@2x.png",
-    "Spring boot",
+    "Dev/Spring boot",
     "Attatchments/Pasted image 20230831174541.png",
     "Dev/Database/Transaction.md",
     "Dev/Database/DBMS의 분류.md",
@@ -184,11 +187,7 @@
     "Dev/Database/center.md",
     "Dev/Java",
     "Dev/Data Structures",
-    "Dev/Algorithms",
     "Dev/Database/Schema.md",
-    "Dev/Database/Untitled.canvas",
-    "Templates",
-    "Dev/Database",
-    "Dev"
+    "Dev/Database/Untitled.canvas"
   ]
 }
