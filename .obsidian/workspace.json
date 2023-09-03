@@ -4,34 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "93fc66236514ed00",
+        "id": "7979fc7cc1cde68b",
         "type": "tabs",
         "children": [
           {
-            "id": "61b9d593de5f3b6e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "553b153e0b06da04",
+            "id": "be8880feed42b58b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring boot/HTTP 메시지 컨버터.md",
+                "file": "Spring boot/요청 매핑 핸들러 어댑터 구조.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring boot/HTTP 메시지 컨버터.md",
+                "file": "Spring boot/요청 매핑 핸들러 어댑터 구조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring boot/HTTP 메시지 컨버터.md",
+                "file": "Spring boot/요청 매핑 핸들러 어댑터 구조.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring boot/HTTP 메시지 컨버터.md"
+                "file": "Spring boot/요청 매핑 핸들러 어댑터 구조.md"
               }
             }
           }
@@ -174,9 +163,10 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "553b153e0b06da04",
+  "active": "be8880feed42b58b",
   "lastOpenFiles": [
     "Spring boot/HTTP 메시지 컨버터.md",
+    "Spring boot/Untitled.md",
     "Dev/Database/DBMS 언어.md",
     "Dev/Java/Logging.md",
     "Spring boot/요청 매핑 핸들러 어댑터 구조.md",
