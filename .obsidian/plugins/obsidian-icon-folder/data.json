@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiCompass",
       "TiHtml",
       "TiAffiliate",
       "TiBrandMysql",
-      "TiSql",
-      "TiServer2"
+      "TiSql"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -59,5 +59,9 @@
     "iconName": "TiAffiliate",
     "inheritanceIcon": "TiList"
   },
-  "Dev/Spring boot/Thymeleaf": "TiHtml"
+  "Dev/Spring boot/Thymeleaf": "TiHtml",
+  "Dev/OS": {
+    "iconName": "TiCompass",
+    "inheritanceIcon": "TiList"
+  }
 }

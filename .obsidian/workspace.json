@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/OS/Compiler.md",
+                "file": "Dev/Network/Fog Computing (Edge Computing).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -32,8 +32,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "320cf1e29e3972d3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 370.5
   },
   "right": {
     "id": "2536babc4bac487d",
@@ -100,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/OS/Compiler.md",
+                "file": "Dev/Network/Fog Computing (Edge Computing).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/OS/Compiler.md",
+                "file": "Dev/Network/Fog Computing (Edge Computing).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/OS/Compiler.md"
+                "file": "Dev/Network/Fog Computing (Edge Computing).md"
               }
             }
           }
@@ -176,17 +185,19 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "8eead646ef2aa7aa",
+  "active": "320cf1e29e3972d3",
   "lastOpenFiles": [
-    "Dev/OS/AST.md",
-    "Dev/OS",
-    "Dev/OS/Compiler.md",
-    "Attatchments/SC 2023-09-05@2x.png",
-    "Dev/Network/TCP, IP Protocol Stack.md",
-    "Dev/Network/Cloud Computing.md",
     "Dev/Network/Fog Computing (Edge Computing).md",
+    "Dev/Network/Cloud Computing.md",
     "Dev/Network/Internet.md",
     "Dev/Network/Packet.md",
+    "Dev/Network/Status Code.md",
+    "Dev/Network/TCP, IP Protocol Stack.md",
+    "SSR.md",
+    "Dev/OS/AST.md",
+    "Dev/OS/Compiler.md",
+    "Dev/OS",
+    "Attatchments/SC 2023-09-05@2x.png",
     "Dev/Spring boot/Untitled.md",
     "Dev/Spring boot/RedirectAttributes.md",
     "Dev/Spring boot/요청 매핑 핸들러 어댑터 구조.md",
@@ -196,14 +207,12 @@
     "Dev/Database/DBMS의 분류.md",
     "Dev/Database/Schema.md",
     "Dev/Database/Transaction.md",
-    "SSR.md",
     "Dev/Design Pattern/PRG Pattern.md",
     "Dev/Design Pattern",
     "Dev/SQL/MySQL",
     "Dev/SQL",
     "Attatchments/SC 2023-09-03.png",
     "Templates/Note Taking Template.md",
-    "Dev/Network/Status Code.md",
     "Dev/Network",
     "README.md",
     "Untitled 1.md",
