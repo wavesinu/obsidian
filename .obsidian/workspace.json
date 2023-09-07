@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bd15c2ed568cf827",
+        "id": "a8e1173a927ca313",
         "type": "tabs",
         "children": [
           {
-            "id": "8eead646ef2aa7aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/Network/Fog Computing (Edge Computing).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d73d1651f0a3aca",
+            "id": "cae1a80c8438bb35",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,15 +21,20 @@
             }
           },
           {
-            "id": "320cf1e29e3972d3",
+            "id": "c224a46ad7a32e42",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Dev/OS/Compiler.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 347.5,
+    "collapsed": true
   },
   "right": {
     "id": "2536babc4bac487d",
@@ -109,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/Network/Fog Computing (Edge Computing).md",
+                "file": "Dev/OS/Compiler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/Network/Fog Computing (Edge Computing).md",
+                "file": "Dev/OS/Compiler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/Network/Fog Computing (Edge Computing).md"
+                "file": "Dev/OS/Compiler.md"
               }
             }
           }
@@ -185,8 +178,10 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "320cf1e29e3972d3",
+  "active": "c224a46ad7a32e42",
   "lastOpenFiles": [
+    "Dev/OS/Interpreter.md",
+    "Dev/OS/Compiler.md",
     "Dev/Network/Fog Computing (Edge Computing).md",
     "Dev/Network/Cloud Computing.md",
     "Dev/Network/Internet.md",
@@ -195,7 +190,6 @@
     "Dev/Network/TCP, IP Protocol Stack.md",
     "SSR.md",
     "Dev/OS/AST.md",
-    "Dev/OS/Compiler.md",
     "Dev/OS",
     "Attatchments/SC 2023-09-05@2x.png",
     "Dev/Spring boot/Untitled.md",
@@ -220,7 +214,6 @@
     "Dev/Spring boot/Thymeleaf",
     "Spring boot/Thymeleaf.md",
     "Dev/Java/Logging.md",
-    "Untitled Kanban.md",
     "Attatchments/SC 2023-09-02@2x.png",
     "Dev/Spring boot",
     "Attatchments/Pasted image 20230831174541.png",

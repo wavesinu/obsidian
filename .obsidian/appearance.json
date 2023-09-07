@@ -1,7 +1,8 @@
 {
   "accentColor": "",
   "cssTheme": "Minimal",
-  "theme": "obsidian",
+  "theme": "moonstone",
   "monospaceFontFamily": "JetBrains Mono,JetBrains Mono NL",
-  "translucency": true
+  "translucency": true,
+  "baseFontSize": 15
 }
