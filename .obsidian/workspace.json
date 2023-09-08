@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cae1a80c8438bb35",
+            "id": "c224a46ad7a32e42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/OS/Compiler.md",
+                "file": "Dev/OS/Device Controller.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,16 +21,37 @@
             }
           },
           {
-            "id": "c224a46ad7a32e42",
+            "id": "5aff98b5e536e3b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/OS/Compiler.md",
+                "file": "Dev/Network/3-way Handshaking.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "d21c9c33b4b08c0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dev/Network/4-way Handshaking.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4cb34d5fa246b14",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -102,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/OS/Compiler.md",
+                "file": "Dev/Network/3-way Handshaking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/OS/Compiler.md",
+                "file": "Dev/Network/3-way Handshaking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/OS/Compiler.md"
+                "file": "Dev/Network/3-way Handshaking.md"
               }
             }
           }
@@ -178,10 +199,16 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "c224a46ad7a32e42",
+  "active": "5aff98b5e536e3b6",
   "lastOpenFiles": [
-    "Dev/OS/Interpreter.md",
+    "Dev/OS/Device Controller.md",
     "Dev/OS/Compiler.md",
+    "Dev/Network/3-way Handshaking.md",
+    "Dev/Network/4-way Handshaking.md",
+    "Attatchments/Pasted image 20230907104805.png",
+    "Attatchments/Pasted image 20230907104753.png",
+    "Dev/Network/TCP.md",
+    "Dev/OS/Interpreter.md",
     "Dev/Network/Fog Computing (Edge Computing).md",
     "Dev/Network/Cloud Computing.md",
     "Dev/Network/Internet.md",
@@ -208,12 +235,7 @@
     "Attatchments/SC 2023-09-03.png",
     "Templates/Note Taking Template.md",
     "Dev/Network",
-    "README.md",
-    "Untitled 1.md",
-    "Spring boot/Untitled.md",
     "Dev/Spring boot/Thymeleaf",
-    "Spring boot/Thymeleaf.md",
-    "Dev/Java/Logging.md",
     "Attatchments/SC 2023-09-02@2x.png",
     "Dev/Spring boot",
     "Attatchments/Pasted image 20230831174541.png",
