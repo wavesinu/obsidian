@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a8e1173a927ca313",
+        "id": "9ab121484b428d6c",
         "type": "tabs",
         "children": [
           {
-            "id": "c224a46ad7a32e42",
+            "id": "7d2cd8802e9fc125",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/OS/Device Controller.md",
+                "file": "Dev/Spring boot/POJO.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,20 +21,12 @@
             }
           },
           {
-            "id": "5aff98b5e536e3b6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "d21c9c33b4b08c0a",
+            "id": "0f9f132d81948b07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Network/4-way Handshaking.md",
+                "file": "Dev/SQL/참조 무결성 제약조건.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -42,15 +34,14 @@
             }
           },
           {
-            "id": "b4cb34d5fa246b14",
+            "id": "20b9048dc911f622",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dev/Spring boot/POJO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,13 +126,23 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dev/Spring boot/POJO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "77e8b41e280b1c3e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "ddfd708bae6e1010",
@@ -170,7 +172,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dev/Spring boot/POJO.md"
+              }
             }
           }
         ]
@@ -190,12 +194,24 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "5aff98b5e536e3b6",
+  "active": "7d2cd8802e9fc125",
   "lastOpenFiles": [
-    "Dev/Network/3-way Handshaking.md",
-    "Dev/OS/Device Controller.md",
+    "Dev/Spring boot/POJO.md",
+    "Dev/OS/System Calls.md",
+    "Attatchments/CleanShot 2023-09-14 at 14.17.13@2x.png",
+    "Dev/SQL/참조 무결성 제약조건.md",
+    "Dev/SQL/키 제약 조건.md",
+    "Dev/SQL/엔티티 무결성 제약조건.md",
+    "Dev/SQL/Database Constraints.md",
+    "Dev/SQL/도메인 제약조건.md",
+    "Dev/SQL/Untitled.md",
     "Dev/OS/Compiler.md",
+    "Attatchments/Pasted image 20230914103719.png",
+    "Dev/Spring boot/Thymeleaf/Thymeleaf.md",
+    "SSR.md",
+    "Dev/OS/Device Controller.md",
     "Dev/Network/4-way Handshaking.md",
+    "Dev/Network/3-way Handshaking.md",
     "Attatchments/Pasted image 20230907104805.png",
     "Attatchments/Pasted image 20230907104753.png",
     "Dev/Network/TCP.md",
@@ -206,25 +222,15 @@
     "Dev/Network/Packet.md",
     "Dev/Network/Status Code.md",
     "Dev/Network/TCP, IP Protocol Stack.md",
-    "SSR.md",
     "Dev/OS/AST.md",
     "Dev/OS",
     "Attatchments/SC 2023-09-05@2x.png",
-    "Dev/Spring boot/Untitled.md",
     "Dev/Spring boot/RedirectAttributes.md",
     "Dev/Spring boot/요청 매핑 핸들러 어댑터 구조.md",
-    "Dev/Spring boot/HTTP 메시지 컨버터.md",
-    "Dev/Spring boot/Thymeleaf/Thymeleaf 사용 방법.md",
-    "Dev/Database/DBMS 언어.md",
-    "Dev/Database/DBMS의 분류.md",
-    "Dev/Database/Schema.md",
-    "Dev/Database/Transaction.md",
-    "Dev/Design Pattern/PRG Pattern.md",
     "Dev/Design Pattern",
     "Dev/SQL/MySQL",
     "Dev/SQL",
     "Attatchments/SC 2023-09-03.png",
-    "Templates/Note Taking Template.md",
     "Dev/Network",
     "Dev/Spring boot/Thymeleaf",
     "Attatchments/SC 2023-09-02@2x.png",
