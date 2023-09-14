@@ -24,13 +24,8 @@
             "id": "5aff98b5e536e3b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/Network/3-way Handshaking.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -123,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/Network/3-way Handshaking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/Network/3-way Handshaking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,9 +170,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dev/Network/3-way Handshaking.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -201,9 +192,9 @@
   },
   "active": "5aff98b5e536e3b6",
   "lastOpenFiles": [
+    "Dev/Network/3-way Handshaking.md",
     "Dev/OS/Device Controller.md",
     "Dev/OS/Compiler.md",
-    "Dev/Network/3-way Handshaking.md",
     "Dev/Network/4-way Handshaking.md",
     "Attatchments/Pasted image 20230907104805.png",
     "Attatchments/Pasted image 20230907104753.png",
