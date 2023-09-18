@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Spring boot/POJO.md",
+                "file": "Dev/Java/Lambda expression.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/Spring boot/POJO.md",
+                "file": "Dev/Java/Lambda expression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/Spring boot/POJO.md",
+                "file": "Dev/Java/Lambda expression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/Spring boot/POJO.md"
+                "file": "Dev/Java/Lambda expression.md"
               }
             }
           }
@@ -197,6 +197,7 @@
   "active": "7d2cd8802e9fc125",
   "lastOpenFiles": [
     "Dev/Spring boot/POJO.md",
+    "Dev/Java/Lambda expression.md",
     "Dev/OS/System Calls.md",
     "Attatchments/CleanShot 2023-09-14 at 14.17.13@2x.png",
     "Dev/SQL/참조 무결성 제약조건.md",
