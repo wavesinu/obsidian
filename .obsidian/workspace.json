@@ -8,40 +8,56 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7d2cd8802e9fc125",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/Java/Lambda expression.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f9f132d81948b07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/SQL/참조 무결성 제약조건.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "20b9048dc911f622",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dev/OS/Heap.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94b275972bdcc32a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dev/OS/포인터 변수.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42a6652160634d1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dev/OS/Heap.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de161e5983e42e7d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -91,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5,
-    "collapsed": true
+    "width": 347.5
   },
   "right": {
     "id": "2536babc4bac487d",
@@ -109,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/Java/Lambda expression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/Java/Lambda expression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,9 +185,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dev/Java/Lambda expression.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -194,10 +205,21 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "7d2cd8802e9fc125",
+  "active": "de161e5983e42e7d",
   "lastOpenFiles": [
-    "Dev/Spring boot/POJO.md",
+    "Dev/OS/Heap.md",
+    "Dev/OS/포인터 변수.md",
+    "Dev/OS/Process State.md",
+    "Dev/OS/Process.md",
+    "Attatchments/Pasted image 20230918204512.png",
+    "Dev/OS/Memory Leak.md",
+    "Dev/OS/Stack.md",
+    "Dev/OS/Dynamic Memory Allocation.md",
+    "Attatchments/CleanShot 2023-09-18 at 22.09.38@2x.png",
+    "Attatchments/Pasted image 20230918220734.png",
+    "Dev/OS/CPU 스케줄러.md",
     "Dev/Java/Lambda expression.md",
+    "Dev/Spring boot/POJO.md",
     "Dev/OS/System Calls.md",
     "Attatchments/CleanShot 2023-09-14 at 14.17.13@2x.png",
     "Dev/SQL/참조 무결성 제약조건.md",
@@ -217,17 +239,8 @@
     "Attatchments/Pasted image 20230907104753.png",
     "Dev/Network/TCP.md",
     "Dev/OS/Interpreter.md",
-    "Dev/Network/Fog Computing (Edge Computing).md",
-    "Dev/Network/Cloud Computing.md",
-    "Dev/Network/Internet.md",
-    "Dev/Network/Packet.md",
-    "Dev/Network/Status Code.md",
-    "Dev/Network/TCP, IP Protocol Stack.md",
-    "Dev/OS/AST.md",
     "Dev/OS",
     "Attatchments/SC 2023-09-05@2x.png",
-    "Dev/Spring boot/RedirectAttributes.md",
-    "Dev/Spring boot/요청 매핑 핸들러 어댑터 구조.md",
     "Dev/Design Pattern",
     "Dev/SQL/MySQL",
     "Dev/SQL",
@@ -236,7 +249,6 @@
     "Dev/Spring boot/Thymeleaf",
     "Attatchments/SC 2023-09-02@2x.png",
     "Dev/Spring boot",
-    "Attatchments/Pasted image 20230831174541.png",
     "Attatchments",
     "Dev/Java",
     "Dev/Data Structures",
