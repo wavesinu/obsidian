@@ -1,10 +1,7 @@
----
-tags: []
-Created Time:
----
-##### <font color="#2DC26B">Related Links</font>
-___
-
-> Networking infrastructure의 관점에서 설명할 수 있다.
-> **(providing service)**
-
+# 인터넷의 작동 방식
+- 패킷([[Packet]])
+- 프로토콜
+	1. [[IP]]
+	2. [[HTTP]]
+	3. [[TCP]]
+	4. [[UDP]]
