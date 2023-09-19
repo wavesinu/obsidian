@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "94b275972bdcc32a",
+            "id": "badec1bfe74cbb92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/OS/포인터 변수.md",
+                "file": "Dev/Network/Packet Switching.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "42a6652160634d1f",
+            "id": "26f9436f8ca70ccc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/OS/Heap.md",
+                "file": "Dev/Network/Circuit Switching.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,17 +47,28 @@
             }
           },
           {
-            "id": "de161e5983e42e7d",
+            "id": "dcee739f203baf83",
             "type": "leaf",
-            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dev/Network/Routing.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71c068f4f089b1cb",
+            "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {},
-              "pinned": true
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 347.5,
+    "collapsed": true
   },
   "right": {
     "id": "2536babc4bac487d",
@@ -124,6 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dev/Network/Circuit Switching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dev/Network/Circuit Switching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +199,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dev/Network/Circuit Switching.md"
+              }
             }
           }
         ]
@@ -205,8 +221,14 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "de161e5983e42e7d",
+  "active": "26f9436f8ca70ccc",
   "lastOpenFiles": [
+    "Attatchments/Pasted image 20230919134327.png",
+    "Dev/Network/Routing.md",
+    "Dev/Network/Circuit Switching.md",
+    "Dev/Network/Packet Switching.md",
+    "Dev/Network/Packet.md",
+    "Dev/Network/Packet Loss.md",
     "Dev/OS/Heap.md",
     "Dev/OS/포인터 변수.md",
     "Dev/OS/Process State.md",
@@ -232,13 +254,8 @@
     "Attatchments/Pasted image 20230914103719.png",
     "Dev/Spring boot/Thymeleaf/Thymeleaf.md",
     "SSR.md",
-    "Dev/OS/Device Controller.md",
-    "Dev/Network/4-way Handshaking.md",
-    "Dev/Network/3-way Handshaking.md",
     "Attatchments/Pasted image 20230907104805.png",
     "Attatchments/Pasted image 20230907104753.png",
-    "Dev/Network/TCP.md",
-    "Dev/OS/Interpreter.md",
     "Dev/OS",
     "Attatchments/SC 2023-09-05@2x.png",
     "Dev/Design Pattern",
