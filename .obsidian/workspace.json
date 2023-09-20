@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8f134595ba0b465c",
+        "id": "65532b8711386a6f",
         "type": "tabs",
         "children": [
           {
-            "id": "27e51bd4a23bbee5",
+            "id": "fdbe70f92e75da28",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Dev/Network/Internet.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dev/Network/Internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dev/Network/Internet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dev/Network/Internet.md"
+              }
             }
           }
         ]
@@ -164,8 +173,9 @@
       "obsidian-rich-links:Rich Links": false
     }
   },
-  "active": "27e51bd4a23bbee5",
+  "active": "fdbe70f92e75da28",
   "lastOpenFiles": [
+    "Dev/Network/OSI Model.md",
     "Dev/Database/DBMS의 분류.md",
     "Dev/Database/DBMS 언어.md",
     "Dev/Design Pattern/PRG Pattern.md",
@@ -191,7 +201,6 @@
     "Dev/Network/RIP.md",
     "Dev/Network/OSPF.md",
     "Dev/Network/BGP.md",
-    "Dev/Network/OSI Model.md",
     "Dev/Network/OSI 7 Layer/Physical Layer.md",
     "Dev/Network/OSI 7 Layer/DataLink Layer.md",
     "Dev/Network/OSI 7 Layer/Session Layer.md",
