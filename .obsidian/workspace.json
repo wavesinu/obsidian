@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/OS/XV6/Hypervisor.md",
+                "file": "Dev/OS/XV6/System Call in XV6.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 347.5,
+    "collapsed": true
   },
   "right": {
     "id": "2536babc4bac487d",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/OS/XV6/Hypervisor.md",
+                "file": "Dev/OS/XV6/System Call in XV6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/OS/XV6/Hypervisor.md",
+                "file": "Dev/OS/XV6/System Call in XV6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/OS/XV6/Hypervisor.md"
+                "file": "Dev/OS/XV6/System Call in XV6.md"
               }
             }
           }
@@ -187,6 +188,7 @@
   "active": "2c6b4f4d20fceb1e",
   "lastOpenFiles": [
     "Dev/OS/XV6/Hypervisor.md",
+    "Dev/OS/XV6/System Call in XV6.md",
     "Dev/OS/Compiler/ε-transition.md",
     "Dev/OS/Compiler/NFA.md",
     "Dev/OS/XV6",
@@ -214,7 +216,6 @@
     "Dev/Network/OSI Model.md",
     "Dev/Database/DBMS의 분류.md",
     "Dev/Database/DBMS 언어.md",
-    "Dev/Design Pattern/PRG Pattern.md",
     "Attatchments/CleanShot 2023-09-19 at 14.59.58@2x.png",
     "Attatchments/Pasted image 20230919145937.png",
     "Dev/Network/OSI 7 Layer",
