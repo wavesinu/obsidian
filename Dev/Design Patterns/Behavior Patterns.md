@@ -1,0 +1,7 @@
+[[Chain of Responsibility]]
+[[Command Pattern]]
+[[Interpreter Pattern]]
+[[Observer Pattern]]
+[[Strategy Pattern]]
+[[Template Method Pattern]]
+[[Memento Pattern]]

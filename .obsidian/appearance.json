@@ -1,8 +1,12 @@
 {
-  "accentColor": "",
-  "cssTheme": "Minimal",
+  "accentColor": "#c9c9c9",
+  "cssTheme": "",
   "theme": "obsidian",
   "monospaceFontFamily": "JetBrains Mono,JetBrains Mono NL",
   "translucency": true,
-  "baseFontSize": 16
+  "baseFontSize": 15,
+  "interfaceFontFamily": "",
+  "baseFontSizeAction": true,
+  "nativeMenus": true,
+  "showViewHeader": true
 }

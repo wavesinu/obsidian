@@ -1,8 +1,9 @@
 [
   "obsidian-git",
   "editing-toolbar",
-  "obsidian-kanban",
-  "obsidian-minimal-settings",
   "obsidian-rich-links",
-  "obsidian-contextual-typography"
+  "obsidian-contextual-typography",
+  "obsidian-minimal-settings",
+  "obsidian-style-settings",
+  "copilot"
 ]
