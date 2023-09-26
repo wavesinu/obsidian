@@ -4,29 +4,98 @@
     "type": "split",
     "children": [
       {
-        "id": "01e18499eb236426",
-        "type": "tabs",
+        "id": "defe764b77b77eb5",
+        "type": "split",
         "children": [
           {
-            "id": "573a121aa9e31438",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
+            "id": "6f07740969b0c8b1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "573a121aa9e31438",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Dev/Design Patterns/Design Pattern.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  },
+                  "pinned": true
+                },
+                "group": "14eabaea2cef7730"
+              }
+            ]
           },
           {
-            "id": "70f9f435265ddca0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
+            "id": "44888668063966e9",
+            "type": "split",
+            "children": [
+              {
+                "id": "d2c2daa135219fa2",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "604063d2f6cc355d",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "localgraph",
+                      "state": {
+                        "file": "Dev/Design Patterns/Design Pattern.md",
+                        "options": {
+                          "collapse-filter": false,
+                          "search": "",
+                          "localJumps": 3,
+                          "localBacklinks": true,
+                          "localForelinks": true,
+                          "localInterlinks": false,
+                          "showTags": false,
+                          "showAttachments": false,
+                          "hideUnresolved": false,
+                          "collapse-color-groups": false,
+                          "colorGroups": [],
+                          "collapse-display": false,
+                          "showArrow": true,
+                          "textFadeMultiplier": 0,
+                          "nodeSizeMultiplier": 1.44835861946589,
+                          "lineSizeMultiplier": 2.49978706414693,
+                          "collapse-forces": false,
+                          "centerStrength": 0.345133528524532,
+                          "repelStrength": 12.4044006742969,
+                          "linkStrength": 0.990462248247715,
+                          "linkDistance": 210,
+                          "scale": 0.7181119245642311,
+                          "close": true
+                        }
+                      },
+                      "pinned": true
+                    },
+                    "group": "14eabaea2cef7730"
+                  }
+                ]
+              },
+              {
+                "id": "54e9764b437af861",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "daf56077a3b526ac",
+                    "type": "leaf",
+                    "state": {
+                      "type": "graph",
+                      "state": {}
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical"
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -76,7 +145,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 409.5024719238281
+    "width": 286.5024719238281,
+    "collapsed": true
   },
   "right": {
     "id": "2536babc4bac487d",
@@ -150,11 +220,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 516.5
+    "width": 516.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,10 +240,22 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "70f9f435265ddca0",
+  "active": "daf56077a3b526ac",
   "lastOpenFiles": [
-    "Dev/CI, CD/Docker.md",
     "Dev/Design Patterns/Design Pattern.md",
+    "애자일 방법론.md",
+    "Dev/SQL/PROJECT 연산.md",
+    "워터폴 방법론.md",
+    "Dev/SQL/Untitled.md",
+    "Attatchments/Pasted image 20230926122958.png",
+    "Attatchments/Pasted image 20230926122437.png",
+    "Attatchments/Pasted image 20230926122230.png",
+    "Dev/Network/OSI 7 Layer/Session Layer.md",
+    "SSR.md",
+    "Dev/SQL/SELECT 연산.md",
+    "Dev/SQL/Key Constraints.md",
+    "Dev/SQL/Database Constraints.md",
+    "Dev/CI, CD/Docker.md",
     "Dev/Algorithms/Search/Search Algorithms.md",
     "Dev/CI, CD/Kubernetes.md",
     "Dev/CI, CD",
@@ -188,20 +272,11 @@
     "Dev/Algorithms/Graph/Prim's Algorithm.md",
     "Dev/Algorithms/Dynamic Programming/Knapsack Algorithm.md",
     "Dev/Algorithms/Devide and Conquer/Quick Sort.md",
-    "Dev/Algorithms/Devide and Conquer/Merge Sort.md",
-    "Dev/Algorithms/Graph/DFS.md",
-    "Dev/Algorithms/Graph/BFS.md",
-    "Dev/Algorithms/Dynamic Programming/Dynamic Programming Algorithms.md",
-    "Dev/Algorithms/Dynamic Programming/Longest Common Subsequence.md",
-    "Dev/Algorithms/Devide and Conquer/Devide and Conquer Algorithms.md",
-    "Dev/Algorithms/Devide and Conquer/Binary Search.md",
     "Dev/Algorithms/Devide and Conquer",
     "Dev/Algorithms/Dynamic Programming",
     "Dev/Algorithms/Graph",
     "Dev/Algorithms/Search",
     "Dev/Algorithms/Sorting",
-    "Dev/Design Patterns/Chain of Responsibility.md",
-    "Dev/Design Patterns/Command Pattern.md",
     "Dev/Design Patterns/Untitled",
     "Japanese",
     "Dev/OS/XV6",
@@ -213,9 +288,6 @@
     "Attatchments/Pasted image 20230919140553.png",
     "Attatchments/Pasted image 20230919134327.png",
     "Attatchments/Pasted image 20230918204512.png",
-    "Attatchments/CleanShot 2023-09-18 at 22.09.38@2x.png",
-    "Attatchments/Pasted image 20230918220734.png",
-    "Attatchments/CleanShot 2023-09-14 at 14.17.13@2x.png",
     "Dev/Database/Untitled.canvas"
   ]
 }

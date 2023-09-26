@@ -52,7 +52,7 @@
       "modifiers": [
         "Mod"
       ],
-      "key": "ArrowRight"
+      "key": "]"
     }
   ],
   "workspace:previous-tab": [
@@ -67,7 +67,7 @@
       "modifiers": [
         "Mod"
       ],
-      "key": "ArrowLeft"
+      "key": "["
     }
   ],
   "workspace:toggle-pin": [
