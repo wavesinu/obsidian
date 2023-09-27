@@ -4,98 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "defe764b77b77eb5",
-        "type": "split",
+        "id": "6f07740969b0c8b1",
+        "type": "tabs",
         "children": [
           {
-            "id": "6f07740969b0c8b1",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "573a121aa9e31438",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Dev/Design Patterns/Design Pattern.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  },
-                  "pinned": true
-                },
-                "group": "14eabaea2cef7730"
+            "id": "c1f8500d229e8276",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dev/Wikis/애자일 방법론.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "44888668063966e9",
-            "type": "split",
-            "children": [
-              {
-                "id": "d2c2daa135219fa2",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "604063d2f6cc355d",
-                    "type": "leaf",
-                    "pinned": true,
-                    "state": {
-                      "type": "localgraph",
-                      "state": {
-                        "file": "Dev/Design Patterns/Design Pattern.md",
-                        "options": {
-                          "collapse-filter": false,
-                          "search": "",
-                          "localJumps": 3,
-                          "localBacklinks": true,
-                          "localForelinks": true,
-                          "localInterlinks": false,
-                          "showTags": false,
-                          "showAttachments": false,
-                          "hideUnresolved": false,
-                          "collapse-color-groups": false,
-                          "colorGroups": [],
-                          "collapse-display": false,
-                          "showArrow": true,
-                          "textFadeMultiplier": 0,
-                          "nodeSizeMultiplier": 1.44835861946589,
-                          "lineSizeMultiplier": 2.49978706414693,
-                          "collapse-forces": false,
-                          "centerStrength": 0.345133528524532,
-                          "repelStrength": 12.4044006742969,
-                          "linkStrength": 0.990462248247715,
-                          "linkDistance": 210,
-                          "scale": 0.7181119245642311,
-                          "close": true
-                        }
-                      },
-                      "pinned": true
-                    },
-                    "group": "14eabaea2cef7730"
-                  }
-                ]
-              },
-              {
-                "id": "54e9764b437af861",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "daf56077a3b526ac",
-                    "type": "leaf",
-                    "state": {
-                      "type": "graph",
-                      "state": {}
-                    }
-                  }
-                ]
-              }
-            ],
-            "direction": "vertical"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5024719238281,
-    "collapsed": true
+    "width": 286.5024719238281
   },
   "right": {
     "id": "2536babc4bac487d",
@@ -170,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dev/Wikis/애자일 방법론.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dev/Wikis/애자일 방법론.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dev/Wikis/애자일 방법론.md"
+              }
             }
           }
         ],
@@ -240,12 +168,15 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "daf56077a3b526ac",
+  "active": "c1f8500d229e8276",
   "lastOpenFiles": [
+    "Dev/Wikis/워터폴 방법론.md",
+    "Dev/Wikis/애자일 방법론.md",
+    "Dev/Wikis",
+    "Dev/Untitled.md",
+    "Inserion Sort.md",
     "Dev/Design Patterns/Design Pattern.md",
-    "애자일 방법론.md",
     "Dev/SQL/PROJECT 연산.md",
-    "워터폴 방법론.md",
     "Dev/SQL/Untitled.md",
     "Attatchments/Pasted image 20230926122958.png",
     "Attatchments/Pasted image 20230926122437.png",
@@ -269,9 +200,6 @@
     "Dev/Algorithms/Graph/Graph Algorithms.md",
     "Dev/Algorithms/Graph/Dijkstra's Algorithm.md",
     "Dev/Algorithms/Graph/Kruskal's Algorithm.md",
-    "Dev/Algorithms/Graph/Prim's Algorithm.md",
-    "Dev/Algorithms/Dynamic Programming/Knapsack Algorithm.md",
-    "Dev/Algorithms/Devide and Conquer/Quick Sort.md",
     "Dev/Algorithms/Devide and Conquer",
     "Dev/Algorithms/Dynamic Programming",
     "Dev/Algorithms/Graph",
@@ -281,7 +209,6 @@
     "Japanese",
     "Dev/OS/XV6",
     "Attatchments/CleanShot 2023-09-20 at 16.26.32@2x.png",
-    "Dev/Compiler",
     "Attatchments/CleanShot 2023-09-19 at 14.59.58@2x.png",
     "Attatchments/Pasted image 20230919145937.png",
     "Attatchments/Pasted image 20230919140606.png",
