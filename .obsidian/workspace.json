@@ -6,15 +6,36 @@
       {
         "id": "6f07740969b0c8b1",
         "type": "tabs",
+        "dimension": 57.065217391304344,
         "children": [
           {
-            "id": "c1f8500d229e8276",
+            "id": "754b9e005858fc9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Wikis/애자일 방법론.md",
-                "mode": "preview",
+                "file": "Dev/OS/XV6/System call Implementation in XV6.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4dc1c0be2588f084",
+        "type": "tabs",
+        "dimension": 42.934782608695656,
+        "children": [
+          {
+            "id": "6e34fc372e16f2d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dev/OS/XV6/Adding System call in XV6.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -70,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5024719238281
+    "width": 286.5024719238281,
+    "collapsed": true
   },
   "right": {
     "id": "2536babc4bac487d",
@@ -94,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/Wikis/애자일 방법론.md",
+                "file": "Dev/OS/XV6/System call Implementation in XV6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/Wikis/애자일 방법론.md",
+                "file": "Dev/OS/XV6/System call Implementation in XV6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/Wikis/애자일 방법론.md"
+                "file": "Dev/OS/XV6/System call Implementation in XV6.md"
               }
             }
           }
@@ -168,10 +190,13 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "c1f8500d229e8276",
+  "active": "754b9e005858fc9a",
   "lastOpenFiles": [
-    "Dev/Wikis/워터폴 방법론.md",
+    "Dev/OS/XV6/Adding System call in XV6.md",
+    "Dev/OS/XV6/System call Implementation in XV6.md",
+    "Dev/OS/XV6/System Call in XV6.md",
     "Dev/Wikis/애자일 방법론.md",
+    "Dev/Wikis/워터폴 방법론.md",
     "Dev/Wikis",
     "Dev/Untitled.md",
     "Inserion Sort.md",
@@ -198,8 +223,6 @@
     "Dev/Algorithms/Search/Hashing.md",
     "Dev/Algorithms/Search/Linear Search.md",
     "Dev/Algorithms/Graph/Graph Algorithms.md",
-    "Dev/Algorithms/Graph/Dijkstra's Algorithm.md",
-    "Dev/Algorithms/Graph/Kruskal's Algorithm.md",
     "Dev/Algorithms/Devide and Conquer",
     "Dev/Algorithms/Dynamic Programming",
     "Dev/Algorithms/Graph",
