@@ -191,3 +191,55 @@ $ gnice 5
 Nice value for pid 5 is: 20
 ```
 - 또한 `snice` 명령어를 사용하여 특정 PID의 nice 값을 변경하고 그 결과를 확인할 수 있어야 한다.
+
+
+
+`sysproc.c` 파일 내의 `setnice` 함수를 다음과 같이 수정함. - 23. 09. 28.
+```c
+int
+sys_setnice(void)
+{
+    int pid;
+    int value;
+
+    if(argint(0, &pid) < 0)
+        return -1;
+    
+    if(argint(1, &value) < 0)
+        return -1;
+
+    if(value < NICE_MIN_VALUE || value > NICE_MAX_VALUE)
+        return -2;
+
+    return setnice(pid, value);
+}
+
+```
+argint(1, &value)를 한번만 호출하도록 수정함.
+
+`proc.c` 파일 내의 getnice 함수를 다음과 같이 수정함. - 23. 09. 28
+```c
+int getnice(int pid) {
+  struct proc *p;
+  acquire(&ptable.lock); // 프로세스 테이블에 대한 락 획득
+
+  for(p = ptable.proc; p < &ptable.proc[NPROC]; p++) {
+    if(p->pid == pid) {
+      release(&ptable.lock); // 락 반환
+      return p->nice;
+    }
+  }
+
+  release(&ptable.lock); // 락 반환
+  return -1; // 해당 pid의 프로세스가 없는 경우
+}
+```
+- nice 변수를 생략함.
+
+현재 process를 확인하는 명령어를 추가함. 23. 09. 28.
+```shell
+$ ps -e
+exec: fail
+exec �ps failed
+```
+

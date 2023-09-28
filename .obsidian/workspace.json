@@ -4,45 +4,86 @@
     "type": "split",
     "children": [
       {
-        "id": "6f07740969b0c8b1",
-        "type": "tabs",
+        "id": "cececa0c63db1087",
+        "type": "split",
         "children": [
           {
-            "id": "754b9e005858fc9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/OS/XV6/System call Implementation in XV6.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+            "id": "6f07740969b0c8b1",
+            "type": "tabs",
+            "dimension": 64,
+            "children": [
+              {
+                "id": "754b9e005858fc9a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Dev/OS/XV6/System call Implementation in XV6.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "561537fa6733696c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Dev/OS/XV6/System Call Wrapper.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "fa5b7c903d48c35c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Dev/OS/XV6/Adding System call in XV6.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "5f7c9e395e1b75ad",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Dev/OS/XV6/System call Implementation in XV6.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
               }
-            }
+            ],
+            "currentTab": 3
           },
           {
-            "id": "561537fa6733696c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/OS/XV6/System Call Wrapper.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+            "id": "15b0197c13c598fc",
+            "type": "tabs",
+            "dimension": 36,
+            "children": [
+              {
+                "id": "a99c1a5bf8b0e7a1",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
               }
-            }
-          },
-          {
-            "id": "fa5b7c903d48c35c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
+            ]
           }
         ],
-        "currentTab": 2
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -92,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5024719238281,
+    "width": 332.5024719238281,
     "collapsed": true
   },
   "right": {
@@ -117,6 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dev/OS/XV6/System call Implementation in XV6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dev/OS/XV6/System call Implementation in XV6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +207,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dev/OS/XV6/System call Implementation in XV6.md"
+              }
             }
           }
         ],
@@ -187,12 +232,13 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "fa5b7c903d48c35c",
+  "active": "5f7c9e395e1b75ad",
   "lastOpenFiles": [
     "Dev/OS/XV6/System call Implementation in XV6.md",
-    "Dev/OS/XV6/System Call Wrapper.md",
     "Dev/OS/XV6/Adding System call in XV6.md",
+    "Dev/OS/XV6/Hypervisor.md",
     "Dev/OS/XV6/System Call in XV6.md",
+    "Dev/OS/XV6/System Call Wrapper.md",
     "Dev/Wikis/애자일 방법론.md",
     "Dev/Wikis/워터폴 방법론.md",
     "Dev/Wikis",
@@ -219,7 +265,6 @@
     "Dev/Algorithms/Sorting/Sorting Algorithms.md",
     "Dev/Algorithms/Search/Binary Tree Search.md",
     "Dev/Algorithms/Search/Hashing.md",
-    "Dev/Algorithms/Search/Linear Search.md",
     "Dev/Algorithms/Devide and Conquer",
     "Dev/Algorithms/Dynamic Programming",
     "Dev/Algorithms/Graph",
