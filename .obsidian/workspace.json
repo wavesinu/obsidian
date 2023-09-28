@@ -6,7 +6,6 @@
       {
         "id": "6f07740969b0c8b1",
         "type": "tabs",
-        "dimension": 57.065217391304344,
         "children": [
           {
             "id": "754b9e005858fc9a",
@@ -20,28 +19,30 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "4dc1c0be2588f084",
-        "type": "tabs",
-        "dimension": 42.934782608695656,
-        "children": [
+          },
           {
-            "id": "6e34fc372e16f2d5",
+            "id": "561537fa6733696c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/OS/XV6/Adding System call in XV6.md",
+                "file": "Dev/OS/XV6/System Call Wrapper.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "fa5b7c903d48c35c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/OS/XV6/System call Implementation in XV6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/OS/XV6/System call Implementation in XV6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,9 +164,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dev/OS/XV6/System call Implementation in XV6.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -190,10 +187,11 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "754b9e005858fc9a",
+  "active": "fa5b7c903d48c35c",
   "lastOpenFiles": [
-    "Dev/OS/XV6/Adding System call in XV6.md",
     "Dev/OS/XV6/System call Implementation in XV6.md",
+    "Dev/OS/XV6/System Call Wrapper.md",
+    "Dev/OS/XV6/Adding System call in XV6.md",
     "Dev/OS/XV6/System Call in XV6.md",
     "Dev/Wikis/애자일 방법론.md",
     "Dev/Wikis/워터폴 방법론.md",
@@ -222,7 +220,6 @@
     "Dev/Algorithms/Search/Binary Tree Search.md",
     "Dev/Algorithms/Search/Hashing.md",
     "Dev/Algorithms/Search/Linear Search.md",
-    "Dev/Algorithms/Graph/Graph Algorithms.md",
     "Dev/Algorithms/Devide and Conquer",
     "Dev/Algorithms/Dynamic Programming",
     "Dev/Algorithms/Graph",
