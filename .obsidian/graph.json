@@ -27,18 +27,25 @@
         "a": 1,
         "rgb": 10911437
       }
+    },
+    {
+      "query": "path:\"Coding test/LeetCode\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8104513
+      }
     }
   ],
   "collapse-display": false,
-  "showArrow": true,
+  "showArrow": false,
   "textFadeMultiplier": -1.9,
   "nodeSizeMultiplier": 1.60377961139207,
-  "lineSizeMultiplier": 2.49736328125,
+  "lineSizeMultiplier": 2.64868689557271,
   "collapse-forces": false,
-  "centerStrength": 0.504597981770833,
-  "repelStrength": 12.900390625,
+  "centerStrength": 0.549063969479194,
+  "repelStrength": 12.0530565167243,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.7535302770049843,
-  "close": true
+  "linkDistance": 200,
+  "scale": 0.7014718030805523,
+  "close": false
 }
