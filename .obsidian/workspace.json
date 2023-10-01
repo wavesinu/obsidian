@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "6f07740969b0c8b1",
+        "id": "e299ab83aca086e4",
         "type": "tabs",
         "children": [
           {
-            "id": "6c047b2279049912",
+            "id": "5ba5fd22dede5bc7",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/OS/Process.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "3561f1af94000023",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/OS/Thread.md",
+                "file": "Dev/OS/Virtual Machine.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "aef94f9ba3e64b77",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "6ad19b8e36ee092c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
+              }
             }
           }
         ]
@@ -128,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/OS/Process.md",
+                "file": "Dev/OS/Virtual Machine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/OS/Process.md",
+                "file": "Dev/OS/Virtual Machine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,12 +145,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/OS/Process.md"
+                "file": "Dev/OS/Virtual Machine.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -202,36 +168,38 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "6c047b2279049912",
+  "active": "5ba5fd22dede5bc7",
   "lastOpenFiles": [
-    "Dev/OS/Thread.md",
+    "Attatchments/Pasted image 20231001172618.png",
+    "Untitled.md",
+    "Dev/OS/Virtual Machine.md",
+    "Dev/OS/OS Structure.md",
+    "Dev/Wikis/Encapsulation.md",
+    "Dev/Wikis/Polymorphism.md",
+    "Dev/Wikis/OOP Principle.md",
     "Dev/OS/Process.md",
+    "Dev/Network/HTTP/HTTP.md",
+    "Dev/Network/HTTP/Status Code.md",
+    "SSR.md",
+    "Dev/Wikis/DIP.md",
+    "Dev/Wikis/SRP.md",
+    "Dev/Wikis/LSP.md",
+    "Dev/Wikis/SOLID Principle.md",
+    "Dev/Wikis/ISP.md",
+    "Dev/Wikis/OCP.md",
+    "Dev/Wikis/Abstraction.md",
+    "Dev/OS/Thread.md",
+    "Dev/Wikis/Inheritance.md",
+    "Dev/OS/Module.md",
+    "Dev/OS/Message Passing.md",
+    "Attatchments/Pasted image 20231001155938.png",
+    "Attatchments/Pasted image 20231001155759.png",
     "Dev/OS/Socket.md",
     "Dev/OS/Message Queue.md",
     "Dev/OS/IPC.md",
     "Dev/Network/HTTP/HTTPS.md",
-    "Dev/OS/Semaphore.md",
-    "Dev/OS/Mutex.md",
-    "Dev/Computer Architecture/Pipe.md",
-    "Dev/Network/OSI 7 Layer/Application Layer.md",
     "Dev/Computer Architecture",
-    "Dev/Untitled.md",
-    "Dev/Network/HTTP/HTTP Methods.md",
     "Dev/Network/HTTP",
-    "Dev/Network/HTTP/Status Code.md",
-    "Dev/Network/HTTP/HTTP.md",
-    "Dev/Data Structures/Stack.md",
-    "Dev/Data Structures/Graph.md",
-    "Dev/Data Structures/Tree.md",
-    "Dev/Data Structures/Queue.md",
-    "Coding test/LeetCode/2. Add Two Numbers.md",
-    "Coding test/LeetCode/3. Longest Palindromic Substring.md",
-    "Coding test/All algorithm problems.md",
-    "Dev/Data Structures/Data Structure.md",
-    "Dev/Data Structures/Array.md",
-    "Dev/OS/XV6/System call Implementation in XV6.md",
-    "Dev/OS/XV6/System Call Wrapper.md",
-    "Dev/OS/XV6/Adding System call in XV6.md",
     "Coding test/Baek Joon",
     "Coding test/Programmers",
     "Coding test/LeetCode",
@@ -248,8 +216,6 @@
     "Attatchments/Pasted image 20230919145937.png",
     "Attatchments/Pasted image 20230919140606.png",
     "Attatchments/Pasted image 20230919140553.png",
-    "Attatchments/Pasted image 20230919134327.png",
-    "Attatchments/Pasted image 20230918204512.png",
     "Dev/Database/Untitled.canvas"
   ]
 }
