@@ -8,6 +8,21 @@
         "type": "tabs",
         "children": [
           {
+            "id": "6c047b2279049912",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dev/OS/Process.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "3561f1af94000023",
             "type": "leaf",
             "pinned": true,
@@ -23,30 +38,22 @@
             }
           },
           {
-            "id": "6c047b2279049912",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/OS/Process.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "aef94f9ba3e64b77",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "6ad19b8e36ee092c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dev/OS/Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dev/OS/Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dev/OS/Process.md"
+              }
             }
           }
         ],
@@ -191,10 +202,13 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "aef94f9ba3e64b77",
+  "active": "6c047b2279049912",
   "lastOpenFiles": [
-    "Dev/OS/Process.md",
     "Dev/OS/Thread.md",
+    "Dev/OS/Process.md",
+    "Dev/OS/Socket.md",
+    "Dev/OS/Message Queue.md",
+    "Dev/OS/IPC.md",
     "Dev/Network/HTTP/HTTPS.md",
     "Dev/OS/Semaphore.md",
     "Dev/OS/Mutex.md",
@@ -218,14 +232,11 @@
     "Dev/OS/XV6/System call Implementation in XV6.md",
     "Dev/OS/XV6/System Call Wrapper.md",
     "Dev/OS/XV6/Adding System call in XV6.md",
-    "Dev/Data Structures/Hash Table.md",
-    "Dev/Data Structures/Linked List.md",
     "Coding test/Baek Joon",
     "Coding test/Programmers",
     "Coding test/LeetCode",
     "Coding test",
     "Dev/C++",
-    "Dev/OS/XV6/Hypervisor.md",
     "Dev/Wikis",
     "Attatchments/Pasted image 20230926122958.png",
     "Attatchments/Pasted image 20230926122437.png",
