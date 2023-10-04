@@ -4,9 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e299ab83aca086e4",
+        "id": "45261dc83dfa05ed",
         "type": "tabs",
+        "dimension": 49.9001996007984,
         "children": [
+          {
+            "id": "21f7aa3c628aac50",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
           {
             "id": "5ba5fd22dede5bc7",
             "type": "leaf",
@@ -14,6 +25,65 @@
               "type": "markdown",
               "state": {
                 "file": "Dev/OS/Virtual Machine.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "60f9654c1c27daa1",
+        "type": "tabs",
+        "dimension": 50.0998003992016,
+        "children": [
+          {
+            "id": "a40394541e34a54b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dev/Java/JVM의 구조.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c04ab54f1eb416b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dev/Java/Java bytecode.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12faccd42da936e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dev/Java/JIT 컴파일러.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91398f718620f8b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dev/Computer Architecture/Cache.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +140,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5024719238281,
-    "collapsed": true
+    "width": 332.5024719238281
   },
   "right": {
     "id": "2536babc4bac487d",
@@ -95,7 +164,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/OS/Virtual Machine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +180,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/OS/Virtual Machine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +211,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dev/OS/Virtual Machine.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -168,11 +233,22 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "5ba5fd22dede5bc7",
+  "active": "21f7aa3c628aac50",
   "lastOpenFiles": [
+    "Dev/Java/JNI.md",
+    "Dev/Java/JVM의 구조.md",
+    "Dev/Java/JVM.md",
+    "Attatchments/Pasted image 20231001213301.png",
+    "Dev/Java/JIT 컴파일러.md",
+    "Dev/OS/Virtual Machine.md",
+    "Dev/Computer Architecture/Cache.md",
+    "Dev/Computer Architecture/Pipe.md",
+    "Dev/Java/Java bytecode.md",
+    "<center>Pasted image 20231001204318.png</center>.md",
+    "<center>Pasted image 20231001204318.png<",
+    "Attatchments/Pasted image 20231001204318.png",
     "Attatchments/Pasted image 20231001172618.png",
     "Untitled.md",
-    "Dev/OS/Virtual Machine.md",
     "Dev/OS/OS Structure.md",
     "Dev/Wikis/Encapsulation.md",
     "Dev/Wikis/Polymorphism.md",
@@ -189,15 +265,8 @@
     "Dev/Wikis/OCP.md",
     "Dev/Wikis/Abstraction.md",
     "Dev/OS/Thread.md",
-    "Dev/Wikis/Inheritance.md",
-    "Dev/OS/Module.md",
-    "Dev/OS/Message Passing.md",
     "Attatchments/Pasted image 20231001155938.png",
     "Attatchments/Pasted image 20231001155759.png",
-    "Dev/OS/Socket.md",
-    "Dev/OS/Message Queue.md",
-    "Dev/OS/IPC.md",
-    "Dev/Network/HTTP/HTTPS.md",
     "Dev/Computer Architecture",
     "Dev/Network/HTTP",
     "Coding test/Baek Joon",
@@ -210,12 +279,8 @@
     "Attatchments/Pasted image 20230926122437.png",
     "Attatchments/Pasted image 20230926122230.png",
     "Dev/CI, CD",
-    "Dev/Algorithms/Devide and Conquer",
     "Attatchments/CleanShot 2023-09-20 at 16.26.32@2x.png",
     "Attatchments/CleanShot 2023-09-19 at 14.59.58@2x.png",
-    "Attatchments/Pasted image 20230919145937.png",
-    "Attatchments/Pasted image 20230919140606.png",
-    "Attatchments/Pasted image 20230919140553.png",
     "Dev/Database/Untitled.canvas"
   ]
 }

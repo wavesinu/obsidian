@@ -1,7 +1,7 @@
 {
   "accentColor": "#a783fb",
-  "cssTheme": "Things",
-  "theme": "obsidian",
+  "cssTheme": "",
+  "theme": "system",
   "monospaceFontFamily": "JetBrains Mono,JetBrains Mono NL",
   "translucency": true,
   "baseFontSize": 14,
