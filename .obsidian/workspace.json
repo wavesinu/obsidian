@@ -8,25 +8,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "32d09b59ad23f826",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
             "id": "61f9f918bdefcd4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Dev/OS/컨테이너.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03d45fe5de396a5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/OS/XV6/System call Implementation in XV6.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -58,25 +55,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "32d09b59ad23f826",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "f88875e48fd67712",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5024719238281,
-    "collapsed": true
+    "width": 346.5
   },
   "right": {
     "id": "2536babc4bac487d",
@@ -151,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/OS/XV6/System call Implementation in XV6.md",
+                "file": "Dev/OS/Exception.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/OS/XV6/System call Implementation in XV6.md",
+                "file": "Dev/OS/Exception.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/OS/XV6/System call Implementation in XV6.md"
+                "file": "Dev/OS/Exception.md"
               }
             }
           }
@@ -225,8 +205,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "03d45fe5de396a5a",
+  "active": "f64c428c18770ba0",
   "lastOpenFiles": [
+    "Dev/OS/Exception.md",
+    "Dev/OS/Interrupt.md",
     "Dev/OS/컨테이너.md",
     "Dev/OS/XV6/System call Implementation in XV6.md",
     "Dev/OS/XV6/Adding System call in XV6.md",
@@ -240,9 +222,7 @@
     "Untitled.md",
     "Dev/OS/Module.md",
     "Dev/OS/OS.md",
-    "Dev/OS/Interrupt.md",
     "Dev/OS/Trap.md",
-    "Dev/OS/Exception.md",
     "Dev/OS/하이퍼바이저.md",
     "Dev/OS/Virtual Machine.md",
     "Dev/SQL/SQL 삭제 옵션.md",
