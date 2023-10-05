@@ -4,60 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "45261dc83dfa05ed",
+        "id": "09ad12954f4e769b",
         "type": "tabs",
-        "dimension": 49.9001996007984,
         "children": [
           {
-            "id": "21f7aa3c628aac50",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "5ba5fd22dede5bc7",
+            "id": "af0bd97886a5e4aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/OS/Virtual Machine.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "60f9654c1c27daa1",
-        "type": "tabs",
-        "dimension": 50.0998003992016,
-        "children": [
-          {
-            "id": "a40394541e34a54b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/Java/JVM의 구조.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c04ab54f1eb416b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/Java/Java bytecode.md",
+                "file": "Untitled.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -65,12 +21,12 @@
             }
           },
           {
-            "id": "12faccd42da936e8",
+            "id": "2e9ea7650f483ebc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Java/JIT 컴파일러.md",
+                "file": "Dev/SQL/SQL 삭제 옵션.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,19 +34,46 @@
             }
           },
           {
-            "id": "91398f718620f8b4",
+            "id": "82df76e37b9f3d13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Computer Architecture/Cache.md",
+                "file": "Dev/SQL/NO ACTION.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5cf5edaa8e496ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SSR.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7644f76678ad9672",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dev/SQL/CASCADE.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -140,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5024719238281
+    "width": 332.5024719238281,
+    "collapsed": true
   },
   "right": {
     "id": "2536babc4bac487d",
@@ -164,6 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SSR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,6 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SSR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +197,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SSR.md"
+              }
             }
           }
         ]
@@ -230,43 +218,50 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": true,
       "obsidian-rich-links:Rich Links": false,
-      "copilot:Copilot Chat": false
+      "copilot:Copilot Chat": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "21f7aa3c628aac50",
+  "active": "e5cf5edaa8e496ed",
   "lastOpenFiles": [
-    "Dev/Java/JNI.md",
-    "Dev/Java/JVM의 구조.md",
-    "Dev/Java/JVM.md",
-    "Attatchments/Pasted image 20231001213301.png",
-    "Dev/Java/JIT 컴파일러.md",
-    "Dev/OS/Virtual Machine.md",
-    "Dev/Computer Architecture/Cache.md",
-    "Dev/Computer Architecture/Pipe.md",
-    "Dev/Java/Java bytecode.md",
-    "<center>Pasted image 20231001204318.png</center>.md",
-    "<center>Pasted image 20231001204318.png<",
-    "Attatchments/Pasted image 20231001204318.png",
-    "Attatchments/Pasted image 20231001172618.png",
+    "데이터베이스 과제 4.md",
+    "Dev/SQL/CASCADE.md",
     "Untitled.md",
+    "SSR.md",
+    "Inserion Sort.md",
+    "Dev/SQL/SQL 삭제 옵션.md",
+    "Dev/SQL/RESTRICT.md",
+    "Dev/SQL/SET NULL.md",
+    "Dev/SQL/NO ACTION.md",
+    "Dev/SQL/SELECT 연산.md",
+    "Dev/SQL/JOIN 연산.md",
+    "Dev/SQL/참조 무결성 제약 조건.md",
+    "Dev/SQL/참조 무결성 제약조건.md",
+    "Dev/SQL/Relational Algebra.md",
+    "Untitled.canvas",
+    "Attatchments/CleanShot 2023-10-04 at 17.37.20@2x.png",
+    "Attatchments/CleanShot 2023-10-04 at 17.37.05@2x.png",
+    "Attatchments/CleanShot 2023-10-04 at 17.24.19@2x.png",
+    "Attatchments/CleanShot 2023-10-04 at 17.19.19@2x.png",
+    "Attatchments/CleanShot 2023-10-04 at 17.18.58@2x.png",
+    "Dev/SQL/PROJECT 연산.md",
+    "Attatchments/Pasted image 20231004164515.png",
+    "Attatchments/CleanShot 2023-10-04 at 15.48.26@2x.png",
+    "Attatchments/CleanShot 2023-10-04 at 15.48.00@2x.png",
+    "Attatchments/CleanShot 2023-10-04 at 15.47.36@2x.png",
+    "Attatchments/CleanShot 2023-10-04 at 15.44.59@2x.png",
+    "Dev/Java/JVM의 구조.md",
+    "Dev/Java/Java bytecode.md",
+    "Dev/Java/JIT 컴파일러.md",
+    "Dev/Computer Architecture/Cache.md",
+    "<center>Pasted image 20231001204318.png</center>.md",
+    "Dev/OS/Virtual Machine.md",
+    "Dev/Java/JNI.md",
+    "Dev/Java/JVM.md",
+    "Dev/Computer Architecture/Pipe.md",
+    "<center>Pasted image 20231001204318.png<",
     "Dev/OS/OS Structure.md",
     "Dev/Wikis/Encapsulation.md",
-    "Dev/Wikis/Polymorphism.md",
-    "Dev/Wikis/OOP Principle.md",
-    "Dev/OS/Process.md",
-    "Dev/Network/HTTP/HTTP.md",
-    "Dev/Network/HTTP/Status Code.md",
-    "SSR.md",
-    "Dev/Wikis/DIP.md",
-    "Dev/Wikis/SRP.md",
-    "Dev/Wikis/LSP.md",
-    "Dev/Wikis/SOLID Principle.md",
-    "Dev/Wikis/ISP.md",
-    "Dev/Wikis/OCP.md",
-    "Dev/Wikis/Abstraction.md",
-    "Dev/OS/Thread.md",
-    "Attatchments/Pasted image 20231001155938.png",
-    "Attatchments/Pasted image 20231001155759.png",
     "Dev/Computer Architecture",
     "Dev/Network/HTTP",
     "Coding test/Baek Joon",
@@ -275,12 +270,7 @@
     "Coding test",
     "Dev/C++",
     "Dev/Wikis",
-    "Attatchments/Pasted image 20230926122958.png",
-    "Attatchments/Pasted image 20230926122437.png",
-    "Attatchments/Pasted image 20230926122230.png",
     "Dev/CI, CD",
-    "Attatchments/CleanShot 2023-09-20 at 16.26.32@2x.png",
-    "Attatchments/CleanShot 2023-09-19 at 14.59.58@2x.png",
     "Dev/Database/Untitled.canvas"
   ]
 }
