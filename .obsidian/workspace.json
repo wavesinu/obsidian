@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "09ad12954f4e769b",
+        "id": "4bba9aa57b49530d",
         "type": "tabs",
         "children": [
           {
@@ -15,19 +15,6 @@
               "type": "graph",
               "state": {},
               "pinned": true
-            }
-          },
-          {
-            "id": "61f9f918bdefcd4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/OS/컨테이너.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
             }
           },
           {
@@ -44,12 +31,38 @@
             }
           },
           {
-            "id": "f64c428c18770ba0",
+            "id": "77ed266920ecdffe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/OS/Exception.md",
+                "file": "Dev/OS/Context Switch.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce50af415b564832",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dev/OS/Process Controll Block.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3576915c1dfdaaa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dev/OS/하이퍼바이저.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -57,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -131,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/OS/Exception.md",
+                "file": "Dev/OS/하이퍼바이저.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/OS/Exception.md",
+                "file": "Dev/OS/하이퍼바이저.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/OS/Exception.md"
+                "file": "Dev/OS/하이퍼바이저.md"
               }
             }
           }
@@ -205,15 +218,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f64c428c18770ba0",
+  "active": "3576915c1dfdaaa0",
   "lastOpenFiles": [
-    "Dev/OS/Exception.md",
+    "Dev/OS/Virtual Machine.md",
+    "Dev/OS/Thread.md",
     "Dev/OS/Interrupt.md",
+    "Dev/OS/Context Switch.md",
+    "Dev/OS/Process Controll Block.md",
+    "Attatchments/Pasted image 20231005231517.png",
+    "Attatchments/Pasted image 20231005231431.png",
     "Dev/OS/컨테이너.md",
+    "Dev/OS/Exception.md",
     "Dev/OS/XV6/System call Implementation in XV6.md",
     "Dev/OS/XV6/Adding System call in XV6.md",
     "Dev/OS/XV6/System Call in XV6.md",
-    "Dev/OS/Context Switch.md",
     "Attatchments/CleanShot 2023-10-05 at 13.51.44@2x.png",
     "Attatchments/Pasted image 20231005135106.png",
     "Dev/OS/Process.md",
@@ -224,7 +242,6 @@
     "Dev/OS/OS.md",
     "Dev/OS/Trap.md",
     "Dev/OS/하이퍼바이저.md",
-    "Dev/OS/Virtual Machine.md",
     "Dev/SQL/SQL 삭제 옵션.md",
     "Dev/OS/메모리 오버커밋.md",
     "Dev/OS/메모리 스왑.md",
@@ -233,8 +250,6 @@
     "SSR.md",
     "데이터베이스 과제 4.md",
     "Inserion Sort.md",
-    "Dev/SQL/RESTRICT.md",
-    "Dev/SQL/SET NULL.md",
     "Untitled.canvas",
     "Attatchments/CleanShot 2023-10-04 at 17.37.20@2x.png",
     "Attatchments/CleanShot 2023-10-04 at 17.37.05@2x.png",
@@ -242,8 +257,6 @@
     "Attatchments/CleanShot 2023-10-04 at 17.19.19@2x.png",
     "Attatchments/CleanShot 2023-10-04 at 17.18.58@2x.png",
     "Attatchments/Pasted image 20231004164515.png",
-    "Attatchments/CleanShot 2023-10-04 at 15.48.26@2x.png",
-    "Attatchments/CleanShot 2023-10-04 at 15.48.00@2x.png",
     "<center>Pasted image 20231001204318.png<",
     "Dev/Computer Architecture",
     "Dev/Network/HTTP",
