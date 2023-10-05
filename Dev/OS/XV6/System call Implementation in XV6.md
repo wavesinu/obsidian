@@ -243,3 +243,5 @@ exec: fail
 exec �ps failed
 ```
 
+---
+`testgetnp` 명령어를 통해 프로세스 확인

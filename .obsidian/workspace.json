@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "af0bd97886a5e4aa",
+            "id": "61f9f918bdefcd4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e9ea7650f483ebc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/SQL/SQL 삭제 옵션.md",
+                "file": "Dev/OS/컨테이너.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,12 +21,12 @@
             }
           },
           {
-            "id": "82df76e37b9f3d13",
+            "id": "03d45fe5de396a5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/SQL/NO ACTION.md",
+                "file": "Dev/OS/XV6/System call Implementation in XV6.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,12 +34,12 @@
             }
           },
           {
-            "id": "e5cf5edaa8e496ed",
+            "id": "b265032f243ebb23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSR.md",
+                "file": "Dev/OS/Interrupt.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,20 +47,36 @@
             }
           },
           {
-            "id": "7644f76678ad9672",
+            "id": "f64c428c18770ba0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/SQL/CASCADE.md",
+                "file": "Dev/OS/Exception.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "32d09b59ad23f826",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "f88875e48fd67712",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SSR.md",
+                "file": "Dev/OS/XV6/System call Implementation in XV6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SSR.md",
+                "file": "Dev/OS/XV6/System call Implementation in XV6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SSR.md"
+                "file": "Dev/OS/XV6/System call Implementation in XV6.md"
               }
             }
           }
@@ -222,46 +225,46 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e5cf5edaa8e496ed",
+  "active": "03d45fe5de396a5a",
   "lastOpenFiles": [
-    "데이터베이스 과제 4.md",
-    "Dev/SQL/CASCADE.md",
+    "Dev/OS/컨테이너.md",
+    "Dev/OS/XV6/System call Implementation in XV6.md",
+    "Dev/OS/XV6/Adding System call in XV6.md",
+    "Dev/OS/XV6/System Call in XV6.md",
+    "Dev/OS/Context Switch.md",
+    "Attatchments/CleanShot 2023-10-05 at 13.51.44@2x.png",
+    "Attatchments/Pasted image 20231005135106.png",
+    "Dev/OS/Process.md",
+    "Dev/OS/Process State.md",
+    "Dev/OS/OS Structure.md",
     "Untitled.md",
-    "SSR.md",
-    "Inserion Sort.md",
+    "Dev/OS/Module.md",
+    "Dev/OS/OS.md",
+    "Dev/OS/Interrupt.md",
+    "Dev/OS/Trap.md",
+    "Dev/OS/Exception.md",
+    "Dev/OS/하이퍼바이저.md",
+    "Dev/OS/Virtual Machine.md",
     "Dev/SQL/SQL 삭제 옵션.md",
+    "Dev/OS/메모리 오버커밋.md",
+    "Dev/OS/메모리 스왑.md",
+    "Dev/SQL/CASCADE.md",
+    "Dev/SQL/NO ACTION.md",
+    "SSR.md",
+    "데이터베이스 과제 4.md",
+    "Inserion Sort.md",
     "Dev/SQL/RESTRICT.md",
     "Dev/SQL/SET NULL.md",
-    "Dev/SQL/NO ACTION.md",
-    "Dev/SQL/SELECT 연산.md",
-    "Dev/SQL/JOIN 연산.md",
-    "Dev/SQL/참조 무결성 제약 조건.md",
-    "Dev/SQL/참조 무결성 제약조건.md",
-    "Dev/SQL/Relational Algebra.md",
     "Untitled.canvas",
     "Attatchments/CleanShot 2023-10-04 at 17.37.20@2x.png",
     "Attatchments/CleanShot 2023-10-04 at 17.37.05@2x.png",
     "Attatchments/CleanShot 2023-10-04 at 17.24.19@2x.png",
     "Attatchments/CleanShot 2023-10-04 at 17.19.19@2x.png",
     "Attatchments/CleanShot 2023-10-04 at 17.18.58@2x.png",
-    "Dev/SQL/PROJECT 연산.md",
     "Attatchments/Pasted image 20231004164515.png",
     "Attatchments/CleanShot 2023-10-04 at 15.48.26@2x.png",
     "Attatchments/CleanShot 2023-10-04 at 15.48.00@2x.png",
-    "Attatchments/CleanShot 2023-10-04 at 15.47.36@2x.png",
-    "Attatchments/CleanShot 2023-10-04 at 15.44.59@2x.png",
-    "Dev/Java/JVM의 구조.md",
-    "Dev/Java/Java bytecode.md",
-    "Dev/Java/JIT 컴파일러.md",
-    "Dev/Computer Architecture/Cache.md",
-    "<center>Pasted image 20231001204318.png</center>.md",
-    "Dev/OS/Virtual Machine.md",
-    "Dev/Java/JNI.md",
-    "Dev/Java/JVM.md",
-    "Dev/Computer Architecture/Pipe.md",
     "<center>Pasted image 20231001204318.png<",
-    "Dev/OS/OS Structure.md",
-    "Dev/Wikis/Encapsulation.md",
     "Dev/Computer Architecture",
     "Dev/Network/HTTP",
     "Coding test/Baek Joon",
