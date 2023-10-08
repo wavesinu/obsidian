@@ -29,48 +29,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "77ed266920ecdffe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/OS/Context Switch.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce50af415b564832",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/OS/Process Controll Block.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3576915c1dfdaaa0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/OS/XV6/System call Implementation in XV6.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/OS/XV6/System call Implementation in XV6.md",
+                "file": "Dev/OS/Interrupt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/OS/XV6/System call Implementation in XV6.md",
+                "file": "Dev/OS/Interrupt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/OS/XV6/System call Implementation in XV6.md"
+                "file": "Dev/OS/Interrupt.md"
               }
             }
           }
@@ -218,19 +179,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3576915c1dfdaaa0",
+  "active": "b265032f243ebb23",
   "lastOpenFiles": [
+    "Dev/OS/Context Switch.md",
+    "Dev/OS/Process Controll Block.md",
+    "Dev/OS/XV6/System call Implementation in XV6.md",
     "Dev/OS/하이퍼바이저.md",
     "Dev/OS/Virtual Machine.md",
     "Dev/OS/Thread.md",
     "Dev/OS/Interrupt.md",
-    "Dev/OS/Context Switch.md",
-    "Dev/OS/Process Controll Block.md",
     "Attatchments/Pasted image 20231005231517.png",
     "Attatchments/Pasted image 20231005231431.png",
     "Dev/OS/컨테이너.md",
     "Dev/OS/Exception.md",
-    "Dev/OS/XV6/System call Implementation in XV6.md",
     "Dev/OS/XV6/Adding System call in XV6.md",
     "Dev/OS/XV6/System Call in XV6.md",
     "Attatchments/CleanShot 2023-10-05 at 13.51.44@2x.png",
