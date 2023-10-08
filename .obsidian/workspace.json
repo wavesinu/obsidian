@@ -12,18 +12,23 @@
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "graph",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Dev/OS/Thread.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
               "pinned": true
             }
           },
           {
-            "id": "b265032f243ebb23",
+            "id": "3445b8c1a133f697",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/OS/Process.md",
+                "file": "Dev/Spring boot/Thymeleaf/Thymeleaf 사용 방법.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -31,7 +36,20 @@
             }
           },
           {
-            "id": "b0b2a6ec7ac92f5a",
+            "id": "cd73f8083ba8e086",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dev/OS/fork().md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5eb2c21ff5bae8d8",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -39,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dev/Spring boot/Thymeleaf/Thymeleaf 사용 방법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dev/Spring boot/Thymeleaf/Thymeleaf 사용 방법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +180,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dev/Spring boot/Thymeleaf/Thymeleaf 사용 방법.md"
+              }
             }
           }
         ]
@@ -183,10 +205,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b0b2a6ec7ac92f5a",
+  "active": "3445b8c1a133f697",
   "lastOpenFiles": [
-    "Dev/OS/Process.md",
+    "Dev/OS/fork().md",
+    "Dev/Spring boot/Thymeleaf/Thymeleaf 사용 방법.md",
     "Dev/OS/Thread.md",
+    "Dev/Spring boot/요청 매핑 핸들러 어댑터 구조.md",
+    "Dev/Spring boot/RedirectAttributes.md",
+    "Dev/OS/Race Condition.md",
+    "Dev/OS/Mutex.md",
+    "Dev/OS/Process.md",
+    "Dev/OS/Starvation.md",
+    "Dev/OS/Mutual Exclusion.md",
+    "Dev/OS/Deadlock.md",
+    "Dev/OS/Semaphore.md",
+    "Dev/OS/Monitor.md",
+    "Dev/OS/Register.md",
+    "Attatchments/Pasted image 20231008172703.png",
+    "Dev/OS/Multi Thread.md",
+    "Attatchments/Pasted image 20231008171241.png",
+    "Dev/OS/exit().md",
     "Dev/OS/Interrupt.md",
     "Dev/OS/Context Switch.md",
     "Dev/OS/Process Controll Block.md",
@@ -201,27 +239,11 @@
     "Dev/OS/XV6/System Call in XV6.md",
     "Attatchments/CleanShot 2023-10-05 at 13.51.44@2x.png",
     "Attatchments/Pasted image 20231005135106.png",
-    "Dev/OS/Process State.md",
-    "Dev/OS/OS Structure.md",
-    "Untitled.md",
-    "Dev/OS/Module.md",
-    "Dev/OS/OS.md",
-    "Dev/OS/Trap.md",
-    "Dev/SQL/SQL 삭제 옵션.md",
-    "Dev/OS/메모리 오버커밋.md",
-    "Dev/OS/메모리 스왑.md",
-    "Dev/SQL/CASCADE.md",
-    "Dev/SQL/NO ACTION.md",
-    "SSR.md",
-    "데이터베이스 과제 4.md",
-    "Inserion Sort.md",
     "Untitled.canvas",
     "Attatchments/CleanShot 2023-10-04 at 17.37.20@2x.png",
     "Attatchments/CleanShot 2023-10-04 at 17.37.05@2x.png",
     "Attatchments/CleanShot 2023-10-04 at 17.24.19@2x.png",
     "Attatchments/CleanShot 2023-10-04 at 17.19.19@2x.png",
-    "Attatchments/CleanShot 2023-10-04 at 17.18.58@2x.png",
-    "Attatchments/Pasted image 20231004164515.png",
     "<center>Pasted image 20231001204318.png<",
     "Dev/Computer Architecture",
     "Dev/Network/HTTP",
