@@ -23,15 +23,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/OS/Interrupt.md",
+                "file": "Dev/OS/Process.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "b0b2a6ec7ac92f5a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/OS/Interrupt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +129,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/OS/Interrupt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,9 +160,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dev/OS/Interrupt.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -179,15 +183,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b265032f243ebb23",
+  "active": "b0b2a6ec7ac92f5a",
   "lastOpenFiles": [
+    "Dev/OS/Process.md",
+    "Dev/OS/Thread.md",
+    "Dev/OS/Interrupt.md",
     "Dev/OS/Context Switch.md",
     "Dev/OS/Process Controll Block.md",
     "Dev/OS/XV6/System call Implementation in XV6.md",
     "Dev/OS/하이퍼바이저.md",
     "Dev/OS/Virtual Machine.md",
-    "Dev/OS/Thread.md",
-    "Dev/OS/Interrupt.md",
     "Attatchments/Pasted image 20231005231517.png",
     "Attatchments/Pasted image 20231005231431.png",
     "Dev/OS/컨테이너.md",
@@ -196,7 +201,6 @@
     "Dev/OS/XV6/System Call in XV6.md",
     "Attatchments/CleanShot 2023-10-05 at 13.51.44@2x.png",
     "Attatchments/Pasted image 20231005135106.png",
-    "Dev/OS/Process.md",
     "Dev/OS/Process State.md",
     "Dev/OS/OS Structure.md",
     "Untitled.md",
