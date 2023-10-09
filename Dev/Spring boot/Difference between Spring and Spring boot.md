@@ -4,9 +4,9 @@
 
 ### Spring의 장점
 - **경량 컨테이너**
-- **IoC(Inversion of Control)**: 제어 역전
-- **DI(Dependency Injection)**: 의존성 주입
-- **AOP(Aspect-Oriented Programming)**: 관점 지향 프로그래밍
+- **[[IoC(Inversion of Control)]]**: 제어 역전
+- **[[DI(Dependency Injection)]]**: 의존성 주입
+- **[[AOP(Aspect-Oriented Programming)]]**: 관점 지향 프로그래밍
 
 ### Spring의 단점
 - **설정의 복잡성**

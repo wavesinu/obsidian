@@ -34,43 +34,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f4fb4026cb341bf7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/Spring boot/IoC(Inversion of Control).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13b6d42eae3ee308",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/Spring boot/DI(Dependency Injection).md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "227a6ed6931b9661",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 346.5,
+    "collapsed": true
   },
   "right": {
     "id": "2536babc4bac487d",
@@ -144,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/Spring boot/DI(Dependency Injection).md",
+                "file": "Dev/Spring boot/AOP(Aspect-Oriented Programming).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/Spring boot/DI(Dependency Injection).md",
+                "file": "Dev/Spring boot/AOP(Aspect-Oriented Programming).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/Spring boot/DI(Dependency Injection).md"
+                "file": "Dev/Spring boot/AOP(Aspect-Oriented Programming).md"
               }
             }
           }
@@ -218,45 +185,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "13b6d42eae3ee308",
+  "active": "73a3299760dba584",
   "lastOpenFiles": [
-    "Dev/Spring boot/DI(Dependency Injection).md",
     "Dev/Spring boot/IoC(Inversion of Control).md",
-    "Dev/Spring boot/AOP(Aspect-Oriented Programming).md",
-    "Dev/OS/XV6/Hypervisor.md",
-    "Dev/Spring boot/Difference between Spring and Spring boot.md",
+    "Dev/Spring boot/DI(Dependency Injection).md",
+    "Dev/Spring boot/Hibernate.md",
+    "Dev/Spring boot/Spring Bean.md",
+    "Dev/Spring boot/ORM.md",
+    "Dev/Spring boot/CRUD.md",
     "Dev/OS/Thread.md",
+    "Dev/Spring boot/POJO.md",
+    "Dev/Spring boot/JDBC.md",
+    "Dev/Spring boot/JPA.md",
+    "Dev/Database/RDBMS.md",
+    "Attatchments/Pasted image 20231009161151.png",
+    "Attatchments/Pasted image 20231009161126.png",
+    "Attatchments/Pasted image 20231009161115.png",
+    "Dev/Spring boot/Tight Coupling.md",
+    "Dev/Spring boot/HTTP 메시지 컨버터.md",
+    "Dev/Spring boot/Difference between Spring and Spring boot.md",
+    "Dev/Spring boot/Spring AOP.md",
+    "Dev/Spring boot/Spring Internationalization.md",
+    "Dev/Java/record.md",
+    "Dev/Spring boot/Loose Coupling.md",
+    "Dev/Spring boot/Application Context.md",
+    "Dev/Spring boot/Java Bean.md",
+    "Dev/Spring boot/AOP(Aspect-Oriented Programming).md",
+    "Dev/Spring boot/Untitled.md",
+    "Dev/OS/XV6/Hypervisor.md",
     "Dev/Spring boot/Thymeleaf/Thymeleaf 사용 방법.md",
     "Dev/OS/fork().md",
-    "Dev/Spring boot/Loose Coupling.md",
-    "Dev/Spring boot/Tight Coupling.md",
     "Dev/OS/Process.md",
-    "Dev/Data Structures/Stack.md",
-    "Dev/Spring boot/요청 매핑 핸들러 어댑터 구조.md",
-    "Dev/Spring boot/RedirectAttributes.md",
-    "Dev/OS/Race Condition.md",
-    "Dev/OS/Mutex.md",
-    "Dev/OS/Starvation.md",
-    "Dev/OS/Mutual Exclusion.md",
-    "Dev/OS/Deadlock.md",
-    "Dev/OS/Semaphore.md",
-    "Dev/OS/Monitor.md",
-    "Dev/OS/Register.md",
     "Attatchments/Pasted image 20231008172703.png",
-    "Dev/OS/Multi Thread.md",
     "Attatchments/Pasted image 20231008171241.png",
-    "Dev/OS/exit().md",
-    "Dev/OS/Interrupt.md",
-    "Dev/OS/Context Switch.md",
     "Attatchments/Pasted image 20231005231517.png",
     "Attatchments/Pasted image 20231005231431.png",
     "Attatchments/CleanShot 2023-10-05 at 13.51.44@2x.png",
     "Attatchments/Pasted image 20231005135106.png",
     "Untitled.canvas",
     "Attatchments/CleanShot 2023-10-04 at 17.37.20@2x.png",
-    "Attatchments/CleanShot 2023-10-04 at 17.37.05@2x.png",
-    "Attatchments/CleanShot 2023-10-04 at 17.24.19@2x.png",
-    "Attatchments/CleanShot 2023-10-04 at 17.19.19@2x.png",
     "<center>Pasted image 20231001204318.png<",
     "Dev/Computer Architecture",
     "Dev/Network/HTTP",
