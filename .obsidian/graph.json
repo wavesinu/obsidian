@@ -4,7 +4,7 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 6084269
       }
+    },
+    {
+      "query": "path:\"Dev/Spring boot\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7750849
+      }
     }
   ],
   "collapse-display": false,
@@ -53,6 +60,6 @@
   "repelStrength": 17.8466796875,
   "linkStrength": 1,
   "linkDistance": 148,
-  "scale": 1.0897025402541922,
-  "close": true
+  "scale": 0.6608893353544667,
+  "close": false
 }

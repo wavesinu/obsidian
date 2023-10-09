@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "3445b8c1a133f697",
+            "id": "73a3299760dba584",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Spring boot/Thymeleaf/Thymeleaf 사용 방법.md",
+                "file": "Dev/Spring boot/AOP(Aspect-Oriented Programming).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,12 +36,12 @@
             }
           },
           {
-            "id": "cd73f8083ba8e086",
+            "id": "f4fb4026cb341bf7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/OS/fork().md",
+                "file": "Dev/Spring boot/IoC(Inversion of Control).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,20 @@
             }
           },
           {
-            "id": "5eb2c21ff5bae8d8",
+            "id": "13b6d42eae3ee308",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dev/Spring boot/DI(Dependency Injection).md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "227a6ed6931b9661",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -57,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -131,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/Spring boot/Thymeleaf/Thymeleaf 사용 방법.md",
+                "file": "Dev/Spring boot/DI(Dependency Injection).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/Spring boot/Thymeleaf/Thymeleaf 사용 방법.md",
+                "file": "Dev/Spring boot/DI(Dependency Injection).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/Spring boot/Thymeleaf/Thymeleaf 사용 방법.md"
+                "file": "Dev/Spring boot/DI(Dependency Injection).md"
               }
             }
           }
@@ -205,16 +218,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3445b8c1a133f697",
+  "active": "13b6d42eae3ee308",
   "lastOpenFiles": [
-    "Dev/OS/fork().md",
-    "Dev/Spring boot/Thymeleaf/Thymeleaf 사용 방법.md",
+    "Dev/Spring boot/DI(Dependency Injection).md",
+    "Dev/Spring boot/IoC(Inversion of Control).md",
+    "Dev/Spring boot/AOP(Aspect-Oriented Programming).md",
+    "Dev/OS/XV6/Hypervisor.md",
+    "Dev/Spring boot/Difference between Spring and Spring boot.md",
     "Dev/OS/Thread.md",
+    "Dev/Spring boot/Thymeleaf/Thymeleaf 사용 방법.md",
+    "Dev/OS/fork().md",
+    "Dev/Spring boot/Loose Coupling.md",
+    "Dev/Spring boot/Tight Coupling.md",
+    "Dev/OS/Process.md",
+    "Dev/Data Structures/Stack.md",
     "Dev/Spring boot/요청 매핑 핸들러 어댑터 구조.md",
     "Dev/Spring boot/RedirectAttributes.md",
     "Dev/OS/Race Condition.md",
     "Dev/OS/Mutex.md",
-    "Dev/OS/Process.md",
     "Dev/OS/Starvation.md",
     "Dev/OS/Mutual Exclusion.md",
     "Dev/OS/Deadlock.md",
@@ -227,16 +248,8 @@
     "Dev/OS/exit().md",
     "Dev/OS/Interrupt.md",
     "Dev/OS/Context Switch.md",
-    "Dev/OS/Process Controll Block.md",
-    "Dev/OS/XV6/System call Implementation in XV6.md",
-    "Dev/OS/하이퍼바이저.md",
-    "Dev/OS/Virtual Machine.md",
     "Attatchments/Pasted image 20231005231517.png",
     "Attatchments/Pasted image 20231005231431.png",
-    "Dev/OS/컨테이너.md",
-    "Dev/OS/Exception.md",
-    "Dev/OS/XV6/Adding System call in XV6.md",
-    "Dev/OS/XV6/System Call in XV6.md",
     "Attatchments/CleanShot 2023-10-05 at 13.51.44@2x.png",
     "Attatchments/Pasted image 20231005135106.png",
     "Untitled.canvas",
