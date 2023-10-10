@@ -8,28 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "32d09b59ad23f826",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/OS/Thread.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "73a3299760dba584",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Spring boot/AOP(Aspect-Oriented Programming).md",
-                "mode": "source",
+                "file": "Dev/Spring boot/POJO.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c63f354fa63ae73e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dev/Spring boot/IoC Container.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -86,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
+    "width": 392.5,
     "collapsed": true
   },
   "right": {
@@ -111,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/Spring boot/AOP(Aspect-Oriented Programming).md",
+                "file": "Dev/Spring boot/IoC Container.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/Spring boot/AOP(Aspect-Oriented Programming).md",
+                "file": "Dev/Spring boot/IoC Container.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/Spring boot/AOP(Aspect-Oriented Programming).md"
+                "file": "Dev/Spring boot/IoC Container.md"
               }
             }
           }
@@ -185,37 +183,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "73a3299760dba584",
+  "active": "c63f354fa63ae73e",
   "lastOpenFiles": [
+    "Dev/Spring boot/POJO.md",
+    "Dev/Spring boot/IoC Container.md",
+    "Dev/Wikis/OOP Principle.md",
+    "Dev/Spring boot/AOP(Aspect-Oriented Programming).md",
+    "Dev/Spring boot/Application Context.md",
     "Dev/Spring boot/IoC(Inversion of Control).md",
-    "Dev/Spring boot/DI(Dependency Injection).md",
+    "Dev/Java/record.md",
     "Dev/Spring boot/Hibernate.md",
+    "Dev/Spring boot/Tight Coupling.md",
+    "Dev/Spring boot/Loose Coupling.md",
+    "Dev/Spring boot/JPA.md",
+    "Dev/Spring boot/JDBC.md",
+    "Dev/Spring boot/Java Bean.md",
     "Dev/Spring boot/Spring Bean.md",
+    "Dev/Spring boot/Spring AOP.md",
+    "Dev/OS/Thread.md",
+    "Dev/Spring boot/DI(Dependency Injection).md",
     "Dev/Spring boot/ORM.md",
     "Dev/Spring boot/CRUD.md",
-    "Dev/OS/Thread.md",
-    "Dev/Spring boot/POJO.md",
-    "Dev/Spring boot/JDBC.md",
-    "Dev/Spring boot/JPA.md",
     "Dev/Database/RDBMS.md",
     "Attatchments/Pasted image 20231009161151.png",
     "Attatchments/Pasted image 20231009161126.png",
     "Attatchments/Pasted image 20231009161115.png",
-    "Dev/Spring boot/Tight Coupling.md",
     "Dev/Spring boot/HTTP 메시지 컨버터.md",
     "Dev/Spring boot/Difference between Spring and Spring boot.md",
-    "Dev/Spring boot/Spring AOP.md",
     "Dev/Spring boot/Spring Internationalization.md",
-    "Dev/Java/record.md",
-    "Dev/Spring boot/Loose Coupling.md",
-    "Dev/Spring boot/Application Context.md",
-    "Dev/Spring boot/Java Bean.md",
-    "Dev/Spring boot/AOP(Aspect-Oriented Programming).md",
     "Dev/Spring boot/Untitled.md",
     "Dev/OS/XV6/Hypervisor.md",
     "Dev/Spring boot/Thymeleaf/Thymeleaf 사용 방법.md",
-    "Dev/OS/fork().md",
-    "Dev/OS/Process.md",
     "Attatchments/Pasted image 20231008172703.png",
     "Attatchments/Pasted image 20231008171241.png",
     "Attatchments/Pasted image 20231005231517.png",
