@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Spring boot/POJO.md",
-                "mode": "preview",
+                "file": "Dev/SQL/Untitled.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Spring boot/IoC Container.md",
-                "mode": "preview",
+                "file": "Dev/SQL/JOIN 연산.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/Spring boot/IoC Container.md",
+                "file": "Dev/SQL/JOIN 연산.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/Spring boot/IoC Container.md",
+                "file": "Dev/SQL/JOIN 연산.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/Spring boot/IoC Container.md"
+                "file": "Dev/SQL/JOIN 연산.md"
               }
             }
           }
@@ -185,6 +185,10 @@
   },
   "active": "c63f354fa63ae73e",
   "lastOpenFiles": [
+    "Dev/SQL/Untitled.md",
+    "Dev/SQL/JOIN 연산.md",
+    "Dev/Spring boot/Untitled.md",
+    "Untitled.md",
     "Dev/Spring boot/POJO.md",
     "Dev/Spring boot/IoC Container.md",
     "Dev/Wikis/OOP Principle.md",
@@ -210,10 +214,6 @@
     "Attatchments/Pasted image 20231009161115.png",
     "Dev/Spring boot/HTTP 메시지 컨버터.md",
     "Dev/Spring boot/Difference between Spring and Spring boot.md",
-    "Dev/Spring boot/Spring Internationalization.md",
-    "Dev/Spring boot/Untitled.md",
-    "Dev/OS/XV6/Hypervisor.md",
-    "Dev/Spring boot/Thymeleaf/Thymeleaf 사용 방법.md",
     "Attatchments/Pasted image 20231008172703.png",
     "Attatchments/Pasted image 20231008171241.png",
     "Attatchments/Pasted image 20231005231517.png",
