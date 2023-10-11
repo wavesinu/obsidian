@@ -8,12 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "73a3299760dba584",
+            "id": "c63f354fa63ae73e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/SQL/Untitled.md",
+                "file": "Dev/Network/Web 3.0.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1540efdd09a9d57d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dev/Network/Cryptocurrency.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +34,51 @@
             }
           },
           {
-            "id": "c63f354fa63ae73e",
+            "id": "493683cc03f8fcc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/SQL/JOIN 연산.md",
+                "file": "Dev/Network/NFT.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d05764a6c207c0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dev/Network/DApps.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c72e9b0f448bcbe9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dev/Network/Semantic Web.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c90a2564484b813",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dev/Compiler/Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -84,7 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5,
+    "width": 348.5,
     "collapsed": true
   },
   "right": {
@@ -109,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/SQL/JOIN 연산.md",
+                "file": "Dev/Compiler/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/SQL/JOIN 연산.md",
+                "file": "Dev/Compiler/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/SQL/JOIN 연산.md"
+                "file": "Dev/Compiler/Untitled.md"
               }
             }
           }
@@ -183,10 +235,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c63f354fa63ae73e",
+  "active": "3c90a2564484b813",
   "lastOpenFiles": [
-    "Dev/SQL/Untitled.md",
+    "Attatchments/CleanShot 2023-10-10 at 16.38.05@2x.png",
+    "Attatchments/CleanShot 2023-10-10 at 16.28.28@2x.png",
+    "Attatchments/CleanShot 2023-10-10 at 16.23.32@2x.png",
+    "Attatchments/CleanShot 2023-10-10 at 16.15.59@2x.png",
+    "Attatchments/CleanShot 2023-10-10 at 16.15.48@2x.png",
+    "Dev/Compiler/Untitled.md",
+    "Dev/Network/Web 3.0.md",
+    "Dev/Network/Cryptocurrency.md",
+    "Dev/Network/NFT.md",
+    "Dev/Network/DApps.md",
+    "Dev/Network/Semantic Web.md",
+    "Dev/Network/Blockchain.md",
+    "Attatchments/CleanShot 2023-10-10 at 15.12.56@2x.png",
+    "Dev/Network/HTTP/HTTP.md",
     "Dev/SQL/JOIN 연산.md",
+    "Dev/SQL/Untitled.md",
     "Dev/Spring boot/Untitled.md",
     "Untitled.md",
     "Dev/Spring boot/POJO.md",
@@ -202,26 +268,12 @@
     "Dev/Spring boot/JPA.md",
     "Dev/Spring boot/JDBC.md",
     "Dev/Spring boot/Java Bean.md",
-    "Dev/Spring boot/Spring Bean.md",
-    "Dev/Spring boot/Spring AOP.md",
-    "Dev/OS/Thread.md",
-    "Dev/Spring boot/DI(Dependency Injection).md",
-    "Dev/Spring boot/ORM.md",
-    "Dev/Spring boot/CRUD.md",
-    "Dev/Database/RDBMS.md",
     "Attatchments/Pasted image 20231009161151.png",
     "Attatchments/Pasted image 20231009161126.png",
     "Attatchments/Pasted image 20231009161115.png",
-    "Dev/Spring boot/HTTP 메시지 컨버터.md",
-    "Dev/Spring boot/Difference between Spring and Spring boot.md",
     "Attatchments/Pasted image 20231008172703.png",
     "Attatchments/Pasted image 20231008171241.png",
-    "Attatchments/Pasted image 20231005231517.png",
-    "Attatchments/Pasted image 20231005231431.png",
-    "Attatchments/CleanShot 2023-10-05 at 13.51.44@2x.png",
-    "Attatchments/Pasted image 20231005135106.png",
     "Untitled.canvas",
-    "Attatchments/CleanShot 2023-10-04 at 17.37.20@2x.png",
     "<center>Pasted image 20231001204318.png<",
     "Dev/Computer Architecture",
     "Dev/Network/HTTP",
