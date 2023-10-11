@@ -84,9 +84,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "451ac187610c5822",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "소프트웨어 공학 팀프로젝트.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -161,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/Compiler/Untitled.md",
+                "file": "소프트웨어 공학 팀프로젝트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/Compiler/Untitled.md",
+                "file": "소프트웨어 공학 팀프로젝트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/Compiler/Untitled.md"
+                "file": "소프트웨어 공학 팀프로젝트.md"
               }
             }
           }
@@ -235,14 +248,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3c90a2564484b813",
+  "active": "451ac187610c5822",
   "lastOpenFiles": [
+    "Dev/Compiler/Untitled.md",
+    "소프트웨어 공학 팀프로젝트.md",
     "Attatchments/CleanShot 2023-10-10 at 16.38.05@2x.png",
     "Attatchments/CleanShot 2023-10-10 at 16.28.28@2x.png",
     "Attatchments/CleanShot 2023-10-10 at 16.23.32@2x.png",
     "Attatchments/CleanShot 2023-10-10 at 16.15.59@2x.png",
     "Attatchments/CleanShot 2023-10-10 at 16.15.48@2x.png",
-    "Dev/Compiler/Untitled.md",
     "Dev/Network/Web 3.0.md",
     "Dev/Network/Cryptocurrency.md",
     "Dev/Network/NFT.md",
@@ -272,7 +286,6 @@
     "Attatchments/Pasted image 20231009161126.png",
     "Attatchments/Pasted image 20231009161115.png",
     "Attatchments/Pasted image 20231008172703.png",
-    "Attatchments/Pasted image 20231008171241.png",
     "Untitled.canvas",
     "<center>Pasted image 20231001204318.png<",
     "Dev/Computer Architecture",
