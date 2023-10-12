@@ -4,89 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4bba9aa57b49530d",
+        "id": "77829bea92d9da4f",
         "type": "tabs",
         "children": [
           {
-            "id": "c63f354fa63ae73e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/Network/Web 3.0.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1540efdd09a9d57d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/Network/Cryptocurrency.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "493683cc03f8fcc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/Network/NFT.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d05764a6c207c0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/Network/DApps.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c72e9b0f448bcbe9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/Network/Semantic Web.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c90a2564484b813",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/Compiler/Untitled.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "451ac187610c5822",
+            "id": "62c2048a9a016c6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -98,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -248,8 +169,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "451ac187610c5822",
+  "active": "62c2048a9a016c6b",
   "lastOpenFiles": [
+    "Dev/SQL/Untitled.md",
+    "Dev/Network/Web 3.0.md",
+    "Dev/Network/Cryptocurrency.md",
+    "Dev/Network/NFT.md",
+    "Dev/Network/DApps.md",
+    "Dev/Network/Semantic Web.md",
     "Dev/Compiler/Untitled.md",
     "소프트웨어 공학 팀프로젝트.md",
     "Attatchments/CleanShot 2023-10-10 at 16.38.05@2x.png",
@@ -257,16 +184,10 @@
     "Attatchments/CleanShot 2023-10-10 at 16.23.32@2x.png",
     "Attatchments/CleanShot 2023-10-10 at 16.15.59@2x.png",
     "Attatchments/CleanShot 2023-10-10 at 16.15.48@2x.png",
-    "Dev/Network/Web 3.0.md",
-    "Dev/Network/Cryptocurrency.md",
-    "Dev/Network/NFT.md",
-    "Dev/Network/DApps.md",
-    "Dev/Network/Semantic Web.md",
     "Dev/Network/Blockchain.md",
     "Attatchments/CleanShot 2023-10-10 at 15.12.56@2x.png",
     "Dev/Network/HTTP/HTTP.md",
     "Dev/SQL/JOIN 연산.md",
-    "Dev/SQL/Untitled.md",
     "Dev/Spring boot/Untitled.md",
     "Untitled.md",
     "Dev/Spring boot/POJO.md",
