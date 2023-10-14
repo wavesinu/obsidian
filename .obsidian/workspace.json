@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "소프트웨어 공학 팀프로젝트.md",
+                "file": "Dev/OS/CPU 스케줄러.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "소프트웨어 공학 팀프로젝트.md",
+                "file": "Dev/OS/CPU 스케줄러.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "소프트웨어 공학 팀프로젝트.md",
+                "file": "Dev/OS/CPU 스케줄러.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "소프트웨어 공학 팀프로젝트.md"
+                "file": "Dev/OS/CPU 스케줄러.md"
               }
             }
           }
@@ -171,6 +171,7 @@
   },
   "active": "62c2048a9a016c6b",
   "lastOpenFiles": [
+    "소프트웨어 공학 팀프로젝트.md",
     "Dev/SQL/Untitled.md",
     "Dev/Network/Web 3.0.md",
     "Dev/Network/Cryptocurrency.md",
@@ -178,7 +179,6 @@
     "Dev/Network/DApps.md",
     "Dev/Network/Semantic Web.md",
     "Dev/Compiler/Untitled.md",
-    "소프트웨어 공학 팀프로젝트.md",
     "Attatchments/CleanShot 2023-10-10 at 16.38.05@2x.png",
     "Attatchments/CleanShot 2023-10-10 at 16.28.28@2x.png",
     "Attatchments/CleanShot 2023-10-10 at 16.23.32@2x.png",
