@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/OS/CPU 스케줄러.md",
+                "file": "Dev/OS/CPU Scheduling.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5,
-    "collapsed": true
+    "width": 348.5
   },
   "right": {
     "id": "2536babc4bac487d",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/OS/CPU 스케줄러.md",
+                "file": "Dev/OS/CPU Scheduling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/OS/CPU 스케줄러.md",
+                "file": "Dev/OS/CPU Scheduling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/OS/CPU 스케줄러.md"
+                "file": "Dev/OS/CPU Scheduling.md"
               }
             }
           }
@@ -153,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 516.5,
-    "collapsed": true
+    "width": 380.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,6 +169,8 @@
   },
   "active": "62c2048a9a016c6b",
   "lastOpenFiles": [
+    "Dev/OS/CPU Scheduling.md",
+    "Dev/OS/CPU Scheduling.md",
     "소프트웨어 공학 팀프로젝트.md",
     "Dev/SQL/Untitled.md",
     "Dev/Network/Web 3.0.md",
@@ -201,8 +201,6 @@
     "Dev/Spring boot/Tight Coupling.md",
     "Dev/Spring boot/Loose Coupling.md",
     "Dev/Spring boot/JPA.md",
-    "Dev/Spring boot/JDBC.md",
-    "Dev/Spring boot/Java Bean.md",
     "Attatchments/Pasted image 20231009161151.png",
     "Attatchments/Pasted image 20231009161126.png",
     "Attatchments/Pasted image 20231009161115.png",
