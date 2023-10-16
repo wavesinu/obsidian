@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/OS/CPU Scheduling.md",
+                "file": "Dev/Design Patterns/Design Pattern.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4500f4b1ac74b441",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dev/Spring boot/Spring Bean.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 348.5,
+    "collapsed": true
   },
   "right": {
     "id": "2536babc4bac487d",
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/OS/CPU Scheduling.md",
+                "file": "Dev/Spring boot/Spring Bean.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/OS/CPU Scheduling.md",
+                "file": "Dev/Spring boot/Spring Bean.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/OS/CPU Scheduling.md"
+                "file": "Dev/Spring boot/Spring Bean.md"
               }
             }
           }
@@ -152,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5
+    "width": 380.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,8 +183,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "62c2048a9a016c6b",
+  "active": "4500f4b1ac74b441",
   "lastOpenFiles": [
+    "Dev/Spring boot/IOC Container.md",
+    "Dev/Spring boot/Spring Bean.md",
+    "Dev/Design Patterns/Design Pattern.md",
+    "Dev/Design Patterns/Structual Patterns.md",
+    "Dev/Design Patterns/Creational Patterns.md",
+    "Dev/Design Patterns/Behavior Patterns.md",
     "Dev/OS/CPU Scheduling.md",
     "Dev/OS/CPU Scheduling.md",
     "소프트웨어 공학 팀프로젝트.md",
@@ -191,16 +213,10 @@
     "Dev/Spring boot/Untitled.md",
     "Untitled.md",
     "Dev/Spring boot/POJO.md",
-    "Dev/Spring boot/IoC Container.md",
     "Dev/Wikis/OOP Principle.md",
     "Dev/Spring boot/AOP(Aspect-Oriented Programming).md",
     "Dev/Spring boot/Application Context.md",
     "Dev/Spring boot/IoC(Inversion of Control).md",
-    "Dev/Java/record.md",
-    "Dev/Spring boot/Hibernate.md",
-    "Dev/Spring boot/Tight Coupling.md",
-    "Dev/Spring boot/Loose Coupling.md",
-    "Dev/Spring boot/JPA.md",
     "Attatchments/Pasted image 20231009161151.png",
     "Attatchments/Pasted image 20231009161126.png",
     "Attatchments/Pasted image 20231009161115.png",

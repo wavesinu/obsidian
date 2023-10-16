@@ -1,5 +1,0 @@
-[[Abstract Pattern]]
-[[Builder Pattern]]
-[[Factory Pattern]]
-[[Prototype Pattern]]
-[[Singleton Pattern]]
