@@ -45,7 +45,11 @@ class HamBurgerRecipe implements BurgerRecipe {
 }
 ```
 - 의존관계를 인터페이스로 추상화하게 되면, 더 다양한 의존관계를 맺을 수 있고, 실제 수현 클래스와의 관계가 느슨해지고([[Loose Coupling]]), 결합도가 낮아진다.
-### 
+### Spring에서의 의존성 주입
+1. 생성자 기반 의존성 주입([[Constructor Injection]])
+2. 수정자 기반 의존성 주입([[Setter Injection]])
+3. 필드 기반 의존성 주입([[Field Injection]])
+
 ---
 ```embed
 title: "의존관계 주입(Dependency Injection) 쉽게 이해하기"

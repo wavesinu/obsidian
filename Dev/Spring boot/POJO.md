@@ -48,26 +48,18 @@ public class ExampleListener implements MessageListener {
 - 위 코드는 JMS 라는 기능을 사용하기 위해 `MessageListener` 인터페이스를 상속받을 것을 알 수 있다. 
 	- 이렇게 POJO 기반의 코드를 작성하지 않게 되면 이후 JMS와 기능을 비슷하지만 다른 솔루션을 사용하고자 할 때 교체하기가 굉장히 힘들어지게 된다.
 ```java
-public class ExampleListener implements MessageListener {
+@Component
+public class ExampleListener {
 
-  public void onMessage(Message message) {
-    if (message instanceof TextMessage) {
-      try {
-        System.out.println(((TextMessage) message).getText());
-      }
-      catch (JMSException ex) {
-        throw new RuntimeException(ex);
-      }
-    }
-    else {
-      throw new IllegalArgumentException("Message must be of type TextMessage");
-    }
+  @JmsListener(destination = "myDestination")
+  public void processOrder(String message) {
+    System.out.println(message);
   }
-
 }
 ```
 - 위 예제는 JmsListner를 상속받지 않고 어노테이션을 통해 객체를 주입받은 상황이다.
 	- 이런식으로 코드를 작성하게 되면 해당 클래스와의 결합도가 낮아져 다른 솔루션으로 변경하고 할 경우 `@JmsListener`를 `@(다른 솔루션)`으로 코드를 수정만 하면 가능하므로 유지 보수에 있어 좀 더 유용하게 활용할 수 있다.
+- <font color="#9c86e9">어떠한 인터페이스에도 종속되지 않는다.</font>
 ---
 ```embed
 title: "Spring의 기본 특징-POJO"
