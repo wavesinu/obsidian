@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Spring boot/CRUD.md",
+                "file": "Dev/Network/DNS.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/Spring boot/CRUD.md",
+                "file": "Dev/Network/DNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/Spring boot/CRUD.md",
+                "file": "Dev/Network/DNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/Spring boot/CRUD.md"
+                "file": "Dev/Network/DNS.md"
               }
             }
           }
@@ -224,6 +224,7 @@
   "active": "0b814c658275ebc9",
   "lastOpenFiles": [
     "Dev/Spring boot/CRUD.md",
+    "Dev/Network/DNS.md",
     "Dev/Spring boot/POJO.md",
     "Dev/Spring boot/Field Injection.md",
     "Dev/Spring boot/Setter Injection.md",
@@ -254,7 +255,6 @@
     "Attatchments/CleanShot 2023-10-10 at 15.12.56@2x.png",
     "Dev/Network/HTTP/HTTP.md",
     "Dev/SQL/JOIN 연산.md",
-    "Dev/Spring boot/Untitled.md",
     "Attatchments/Pasted image 20231009161151.png",
     "Attatchments/Pasted image 20231009161126.png",
     "Attatchments/Pasted image 20231009161115.png",
