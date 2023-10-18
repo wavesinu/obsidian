@@ -4,76 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "77829bea92d9da4f",
+        "id": "099b5c45e466faa4",
         "type": "tabs",
         "children": [
           {
-            "id": "4500f4b1ac74b441",
+            "id": "18b579ca7dc1e6e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Spring boot/POJO.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "289c85863b55aaf3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/Spring boot/Constructor Injection.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a7f3dd9b4221dec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/Spring boot/Setter Injection.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df24ff3db00449d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/Spring boot/Field Injection.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b814c658275ebc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/Network/DNS.md",
+                "file": "Dev/Compiler/Token.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/Network/DNS.md",
+                "file": "Dev/Compiler/Token.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/Network/DNS.md",
+                "file": "Dev/Compiler/Token.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/Network/DNS.md"
+                "file": "Dev/Compiler/Token.md"
               }
             }
           }
@@ -221,14 +168,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0b814c658275ebc9",
+  "active": "18b579ca7dc1e6e1",
   "lastOpenFiles": [
-    "Dev/Spring boot/CRUD.md",
-    "Dev/Network/DNS.md",
+    "Dev/Compiler/Token.md",
     "Dev/Spring boot/POJO.md",
-    "Dev/Spring boot/Field Injection.md",
-    "Dev/Spring boot/Setter Injection.md",
     "Dev/Spring boot/Constructor Injection.md",
+    "Dev/Spring boot/Setter Injection.md",
+    "Dev/Spring boot/Field Injection.md",
+    "Dev/Network/DNS.md",
+    "Dev/Spring boot/CRUD.md",
     "Dev/Spring boot/Spring Bean.md",
     "Dev/Design Patterns/Design Pattern.md",
     "Dev/Spring boot/DI(Dependency Injection).md",
@@ -254,7 +202,6 @@
     "Dev/Network/Blockchain.md",
     "Attatchments/CleanShot 2023-10-10 at 15.12.56@2x.png",
     "Dev/Network/HTTP/HTTP.md",
-    "Dev/SQL/JOIN 연산.md",
     "Attatchments/Pasted image 20231009161151.png",
     "Attatchments/Pasted image 20231009161126.png",
     "Attatchments/Pasted image 20231009161115.png",
