@@ -78,3 +78,35 @@ $$
 \pi_{Fname}(EMPLOYEE - EMPLOYEE\bowtie_{Ssn=Essn}DEPENDENT)  
 \end{align}  
 $$
+
+rahouston
+π{Dname}(σ{Dlocation='Houston'}(DEPARTMENT{⨝Dnumber=Dnumber}DEPT_LOCATIONS))
+
+rareorganization
+EMP_PROJ <- EMPLOYEE{⨝ssn=essn}WORKS_ON{⨝pno=pnumber}PROJECT
+RESULT <- π{fname}(σ{pname='Reorganizaition'}(EMP_PROJ))
+
+rafranklin
+EMP_DEP <- EMPLOYEE{⨝ssn=essn}DEPENDENT
+RESULT <- π{dependent_name}(σ{fname='frankilin'}(EMP_DEP))
+
+EMP_DEP <- EMPLOYEE{⨝ssn=essn}DEPENDENT
+RESULT <- π{dependent_name}(σ{fname='frankilin'}(EMP_DEP)) 
+
+rasugarlandhouston
+
+raborg
+
+JOINED <- EMPLOYEE{⨝ssn=essn}WORKS_ON{⨝pno=pnumber}PROJECT
+RESULT <- π{fname}(σ{plocation='houston'}(JOINED)) 
+
+부양가족적
+
+부양가족없직
+π{fname}(E-E{⨝ssn=essn}DEPENDENT)
+
+부양가족없관
+ADMIN <-σ{super_ssn=null}(E)
+RESULT <- π{fname}(ADMIN-ADMIN{⨝ssn=essn}DEPENDENT)
+π
+
