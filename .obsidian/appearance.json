@@ -4,7 +4,7 @@
   "theme": "moonstone",
   "monospaceFontFamily": "JetBrains Mono,JetBrains Mono NL",
   "translucency": true,
-  "baseFontSize": 14,
+  "baseFontSize": 15,
   "interfaceFontFamily": "Arial",
   "baseFontSizeAction": true,
   "nativeMenus": true,

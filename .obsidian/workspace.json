@@ -26,11 +26,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/OS/XV6/Refactoring scheduler.md",
-                "mode": "source",
+                "file": "Dev/Compiler/Compiler Grammar.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "d392df48b66d31cc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -109,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/OS/XV6/Refactoring scheduler.md",
+                "file": "Dev/Compiler/Compiler Grammar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/OS/XV6/Refactoring scheduler.md",
+                "file": "Dev/Compiler/Compiler Grammar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/OS/XV6/Refactoring scheduler.md"
+                "file": "Dev/Compiler/Compiler Grammar.md"
               }
             }
           }
@@ -185,6 +193,12 @@
   },
   "active": "165acf929c5cc989",
   "lastOpenFiles": [
+    "Dev/Compiler/Compiler Grammar.md",
+    "Dev/Compiler/Terminal symbols.md",
+    "Dev/Compiler/Non-terminal symbols.md",
+    "Dev/Compiler/Untitled 1.md",
+    "Dev/Compiler/Context-Free Grammar.md",
+    "Dev/Compiler/Lex.md",
     "Dev/OS/XV6/Refactoring scheduler.md",
     "Dev/Compiler/Token.md",
     "Dev/Spring boot/POJO.md",
@@ -205,17 +219,11 @@
     "소프트웨어 공학 팀프로젝트.md",
     "Dev/SQL/Untitled.md",
     "Dev/Network/Web 3.0.md",
-    "Dev/Network/Cryptocurrency.md",
-    "Dev/Network/NFT.md",
-    "Dev/Network/DApps.md",
-    "Dev/Network/Semantic Web.md",
-    "Dev/Compiler/Untitled.md",
     "Attatchments/CleanShot 2023-10-10 at 16.38.05@2x.png",
     "Attatchments/CleanShot 2023-10-10 at 16.28.28@2x.png",
     "Attatchments/CleanShot 2023-10-10 at 16.23.32@2x.png",
     "Attatchments/CleanShot 2023-10-10 at 16.15.59@2x.png",
     "Attatchments/CleanShot 2023-10-10 at 16.15.48@2x.png",
-    "Dev/Network/Blockchain.md",
     "Attatchments/CleanShot 2023-10-10 at 15.12.56@2x.png",
     "Attatchments/Pasted image 20231009161151.png",
     "Attatchments/Pasted image 20231009161126.png",
