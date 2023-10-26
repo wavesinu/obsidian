@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Compiler/Compiler Grammar.md",
+                "file": "데이터베이스 중간고사 대비.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/Compiler/Compiler Grammar.md",
+                "file": "데이터베이스 중간고사 대비.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/Compiler/Compiler Grammar.md",
+                "file": "데이터베이스 중간고사 대비.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/Compiler/Compiler Grammar.md"
+                "file": "데이터베이스 중간고사 대비.md"
               }
             }
           }
@@ -169,10 +169,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "165acf929c5cc989",
+  "active": "f2556f13851cd0d8",
   "lastOpenFiles": [
-    "데이터베이스 중간고사 대비.md",
     "Dev/Compiler/Compiler Grammar.md",
+    "데이터베이스 중간고사 대비.md",
     "Attatchments/CleanShot 2023-10-24 at 02.03.03@2x.png",
     "Dev/Compiler/Token.md",
     "Dev/Compiler/Terminal symbols.md",
