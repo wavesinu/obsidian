@@ -4,30 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "099b5c45e466faa4",
+        "id": "8de526ee9d8ba42b",
         "type": "tabs",
         "children": [
           {
-            "id": "165acf929c5cc989",
+            "id": "c5ca63bbb2e0cdf5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Code Snippets/Fibonacci.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "fda7dc3d2aec4c8f",
+            "id": "c89f8e2a735bb55c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/C++/Permutation.md",
-                "mode": "preview",
+                "file": "Dev/OS/XV6/Refactoring scheduler.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -84,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5,
+    "width": 398.5,
     "collapsed": true
   },
   "right": {
@@ -109,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/C++/Permutation.md",
+                "file": "Dev/OS/XV6/Refactoring scheduler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/C++/Permutation.md",
+                "file": "Dev/OS/XV6/Refactoring scheduler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/C++/Permutation.md"
+                "file": "Dev/OS/XV6/Refactoring scheduler.md"
               }
             }
           }
@@ -183,12 +178,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fda7dc3d2aec4c8f",
+  "active": "c89f8e2a735bb55c",
   "lastOpenFiles": [
-    "Dev/C++/Recursive Function.md",
+    "Dev/Linux/grep.md",
+    "Dev/Linux",
     "Dev/C++/Permutation.md",
-    "Code Snippets/Factorial.md",
     "Code Snippets/Fibonacci.md",
+    "Dev/C++/Recursive Function.md",
+    "Code Snippets/Factorial.md",
     "Code Snippets",
     "데이터베이스 중간고사 대비.md",
     "Dev/Compiler/Compiler Grammar.md",
@@ -212,7 +209,6 @@
     "Dev/Spring boot/IOC Container.md",
     "Dev/Design Patterns/Structual Patterns.md",
     "Dev/Design Patterns/Creational Patterns.md",
-    "Dev/Design Patterns/Behavior Patterns.md",
     "Attatchments/CleanShot 2023-10-10 at 16.38.05@2x.png",
     "Attatchments/CleanShot 2023-10-10 at 16.28.28@2x.png",
     "Attatchments/CleanShot 2023-10-10 at 16.23.32@2x.png",
@@ -231,7 +227,6 @@
     "Coding test/LeetCode",
     "Coding test",
     "Dev/C++",
-    "Dev/Wikis",
     "Dev/Database/Untitled.canvas"
   ]
 }
