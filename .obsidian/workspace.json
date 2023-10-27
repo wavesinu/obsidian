@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데이터베이스 중간고사 대비.md",
+                "file": "Code Snippets/Fibonacci.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "fda7dc3d2aec4c8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dev/C++/Permutation.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5,
+    "width": 242.5,
     "collapsed": true
   },
   "right": {
@@ -95,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데이터베이스 중간고사 대비.md",
+                "file": "Dev/C++/Permutation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데이터베이스 중간고사 대비.md",
+                "file": "Dev/C++/Permutation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데이터베이스 중간고사 대비.md"
+                "file": "Dev/C++/Permutation.md"
               }
             }
           }
@@ -169,10 +183,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f2556f13851cd0d8",
+  "active": "fda7dc3d2aec4c8f",
   "lastOpenFiles": [
-    "Dev/Compiler/Compiler Grammar.md",
+    "Dev/C++/Recursive Function.md",
+    "Dev/C++/Permutation.md",
+    "Code Snippets/Factorial.md",
+    "Code Snippets/Fibonacci.md",
+    "Code Snippets",
     "데이터베이스 중간고사 대비.md",
+    "Dev/Compiler/Compiler Grammar.md",
     "Attatchments/CleanShot 2023-10-24 at 02.03.03@2x.png",
     "Dev/Compiler/Token.md",
     "Dev/Compiler/Terminal symbols.md",
@@ -194,10 +213,6 @@
     "Dev/Design Patterns/Structual Patterns.md",
     "Dev/Design Patterns/Creational Patterns.md",
     "Dev/Design Patterns/Behavior Patterns.md",
-    "Dev/OS/CPU Scheduling.md",
-    "Dev/OS/CPU Scheduling.md",
-    "소프트웨어 공학 팀프로젝트.md",
-    "Dev/SQL/Untitled.md",
     "Attatchments/CleanShot 2023-10-10 at 16.38.05@2x.png",
     "Attatchments/CleanShot 2023-10-10 at 16.28.28@2x.png",
     "Attatchments/CleanShot 2023-10-10 at 16.23.32@2x.png",
@@ -217,7 +232,6 @@
     "Coding test",
     "Dev/C++",
     "Dev/Wikis",
-    "Dev/CI, CD",
     "Dev/Database/Untitled.canvas"
   ]
 }
