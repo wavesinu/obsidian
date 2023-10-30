@@ -4,128 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "a818776e0830e13d",
-        "type": "split",
+        "id": "ba76b04ee26c8f99",
+        "type": "tabs",
         "children": [
           {
-            "id": "ba76b04ee26c8f99",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9e6e21447bb69ee6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "원티드 프리온보딩 챌린지 사전 과제/1번 문제.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "6b607d91048d1605",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "원티드 프리온보딩 챌린지 사전 과제/2번 문제.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "a643e88d912fc062",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "원티드 프리온보딩 챌린지 사전 과제/3번 문제.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "48641151864e842d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "원티드 프리온보딩 챌린지 사전 과제/4번 문제.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "070fb880eb5d0e65",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "원티드 프리온보딩 챌린지 사전 과제/5번 문제.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
+            "id": "6b607d91048d1605",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dev/Spring boot/Hibernate.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               }
-            ],
-            "currentTab": 1
+            }
           },
           {
-            "id": "6a1cbfb9ac0c7ed0",
-            "type": "split",
-            "children": [
-              {
-                "id": "78ac9f37c15e273d",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "4857a9869c94373a",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Dev/Network/TCP.md",
-                        "mode": "source",
-                        "backlinks": false,
-                        "source": false
-                      }
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "197dd0dfa6f1822e",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "00525e07ba2d9d76",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Dev/Network/UDP.md",
-                        "mode": "source",
-                        "backlinks": false,
-                        "source": false
-                      }
-                    }
-                  }
-                ]
-              }
-            ],
-            "direction": "vertical"
+            "id": "993a10ed4e272b8d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
-    "collapsed": true
+    "width": 261.5
   },
   "right": {
     "id": "2536babc4bac487d",
@@ -200,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/Network/TCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/Network/TCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,9 +150,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dev/Network/TCP.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -274,13 +173,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4857a9869c94373a",
+  "active": "993a10ed4e272b8d",
   "lastOpenFiles": [
-    "Dev/Network/UDP.md",
-    "Dev/Network/TCP.md",
-    "원티드 프리온보딩 챌린지 사전 과제/2번 문제.md",
-    "Attatchments/CleanShot 2023-10-30 at 12.40.35@2x.png",
+    "Dev/Spring boot/Hibernate.md",
     "원티드 프리온보딩 챌린지 사전 과제/1번 문제.md",
+    "원티드 프리온보딩 챌린지 사전 과제/2번 문제.md",
+    "Dev/Network/TCP.md",
+    "Dev/Network/UDP.md",
+    "Attatchments/CleanShot 2023-10-30 at 12.40.35@2x.png",
     "원티드 프리온보딩 챌린지 사전 과제/4번 문제.md",
     "원티드 프리온보딩 챌린지 사전 과제/5번 문제.md",
     "원티드 프리온보딩 챌린지 사전 과제/3번 문제.md",
