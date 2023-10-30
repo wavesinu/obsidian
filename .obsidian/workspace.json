@@ -4,32 +4,128 @@
     "type": "split",
     "children": [
       {
-        "id": "8de526ee9d8ba42b",
-        "type": "tabs",
+        "id": "a818776e0830e13d",
+        "type": "split",
         "children": [
           {
-            "id": "c5ca63bbb2e0cdf5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
+            "id": "ba76b04ee26c8f99",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9e6e21447bb69ee6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "원티드 프리온보딩 챌린지 사전 과제/1번 문제.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "6b607d91048d1605",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "원티드 프리온보딩 챌린지 사전 과제/2번 문제.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "a643e88d912fc062",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "원티드 프리온보딩 챌린지 사전 과제/3번 문제.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "48641151864e842d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "원티드 프리온보딩 챌린지 사전 과제/4번 문제.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "070fb880eb5d0e65",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "원티드 프리온보딩 챌린지 사전 과제/5번 문제.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
           },
           {
-            "id": "c89f8e2a735bb55c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/OS/XV6/Refactoring scheduler.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+            "id": "6a1cbfb9ac0c7ed0",
+            "type": "split",
+            "children": [
+              {
+                "id": "78ac9f37c15e273d",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "4857a9869c94373a",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Dev/Network/TCP.md",
+                        "mode": "source",
+                        "backlinks": false,
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "197dd0dfa6f1822e",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "00525e07ba2d9d76",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Dev/Network/UDP.md",
+                        "mode": "source",
+                        "backlinks": false,
+                        "source": false
+                      }
+                    }
+                  }
+                ]
               }
-            }
+            ],
+            "direction": "vertical"
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -79,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398.5,
+    "width": 261.5,
     "collapsed": true
   },
   "right": {
@@ -104,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/OS/XV6/Refactoring scheduler.md",
+                "file": "Dev/Network/TCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/OS/XV6/Refactoring scheduler.md",
+                "file": "Dev/Network/TCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/OS/XV6/Refactoring scheduler.md"
+                "file": "Dev/Network/TCP.md"
               }
             }
           }
@@ -178,8 +274,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c89f8e2a735bb55c",
+  "active": "4857a9869c94373a",
   "lastOpenFiles": [
+    "Dev/Network/UDP.md",
+    "Dev/Network/TCP.md",
+    "원티드 프리온보딩 챌린지 사전 과제/2번 문제.md",
+    "Attatchments/CleanShot 2023-10-30 at 12.40.35@2x.png",
+    "원티드 프리온보딩 챌린지 사전 과제/1번 문제.md",
+    "원티드 프리온보딩 챌린지 사전 과제/4번 문제.md",
+    "원티드 프리온보딩 챌린지 사전 과제/5번 문제.md",
+    "원티드 프리온보딩 챌린지 사전 과제/3번 문제.md",
+    "Untitled.md",
+    "Dev/OS/XV6/Refactoring scheduler.md",
+    "Dev/OS/XV6/Untitled.md",
+    "원티드 프리온보딩 챌린지 사전 과제",
     "Dev/Linux/grep.md",
     "Dev/Linux",
     "Dev/C++/Permutation.md",
@@ -196,19 +304,8 @@
     "Dev/Compiler/Untitled 1.md",
     "Dev/Compiler/Context-Free Grammar.md",
     "Dev/Compiler/Lex.md",
-    "Dev/OS/XV6/Refactoring scheduler.md",
     "Dev/Spring boot/POJO.md",
     "Dev/Spring boot/Constructor Injection.md",
-    "Dev/Spring boot/Setter Injection.md",
-    "Dev/Spring boot/Field Injection.md",
-    "Dev/Network/DNS.md",
-    "Dev/Spring boot/CRUD.md",
-    "Dev/Spring boot/Spring Bean.md",
-    "Dev/Design Patterns/Design Pattern.md",
-    "Dev/Spring boot/DI(Dependency Injection).md",
-    "Dev/Spring boot/IOC Container.md",
-    "Dev/Design Patterns/Structual Patterns.md",
-    "Dev/Design Patterns/Creational Patterns.md",
     "Attatchments/CleanShot 2023-10-10 at 16.38.05@2x.png",
     "Attatchments/CleanShot 2023-10-10 at 16.28.28@2x.png",
     "Attatchments/CleanShot 2023-10-10 at 16.23.32@2x.png",
@@ -217,7 +314,6 @@
     "Attatchments/CleanShot 2023-10-10 at 15.12.56@2x.png",
     "Attatchments/Pasted image 20231009161151.png",
     "Attatchments/Pasted image 20231009161126.png",
-    "Attatchments/Pasted image 20231009161115.png",
     "Untitled.canvas",
     "<center>Pasted image 20231001204318.png<",
     "Dev/Computer Architecture",
@@ -226,7 +322,6 @@
     "Coding test/Programmers",
     "Coding test/LeetCode",
     "Coding test",
-    "Dev/C++",
     "Dev/Database/Untitled.canvas"
   ]
 }
