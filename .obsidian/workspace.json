@@ -24,8 +24,13 @@
             "id": "993a10ed4e272b8d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Dev/OS/XV6/Refactoring scheduler.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -79,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 261.5,
+    "collapsed": true
   },
   "right": {
     "id": "2536babc4bac487d",
@@ -103,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dev/OS/XV6/Refactoring scheduler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dev/OS/XV6/Refactoring scheduler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +158,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dev/OS/XV6/Refactoring scheduler.md"
+              }
             }
           }
         ]

@@ -11,7 +11,7 @@
       "query": "path:\"Dev/Design Patterns\"  ",
       "color": {
         "a": 1,
-        "rgb": 10963273
+        "rgb": 8862523
       }
     },
     {
@@ -32,14 +32,14 @@
       "query": "path:Dev/Algorithms  ",
       "color": {
         "a": 1,
-        "rgb": 6073814
+        "rgb": 4357274
       }
     },
     {
       "query": "path:\"Dev/Data Structures\"  ",
       "color": {
         "a": 1,
-        "rgb": 6084269
+        "rgb": 4364924
       }
     },
     {
@@ -53,13 +53,13 @@
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.45260416666667,
+  "nodeSizeMultiplier": 1.10169270833333,
   "lineSizeMultiplier": 1.4968147751606,
   "collapse-forces": false,
   "centerStrength": 0.602132161458333,
   "repelStrength": 17.8466796875,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.20508113576089854,
-  "close": true
+  "linkDistance": 319,
+  "scale": 0.17635963851973258,
+  "close": false
 }
