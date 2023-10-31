@@ -27,14 +27,22 @@
               "type": "markdown",
               "state": {
                 "file": "Dev/OS/XV6/Refactoring scheduler.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "ee1161185e028b50",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/OS/XV6/Refactoring scheduler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/OS/XV6/Refactoring scheduler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,9 +164,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dev/OS/XV6/Refactoring scheduler.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -183,8 +187,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "993a10ed4e272b8d",
+  "active": "ee1161185e028b50",
   "lastOpenFiles": [
+    "Dev/OS/XV6/Refactoring scheduler.md",
     "Dev/Spring boot/Hibernate.md",
     "원티드 프리온보딩 챌린지 사전 과제/1번 문제.md",
     "원티드 프리온보딩 챌린지 사전 과제/2번 문제.md",
@@ -195,7 +200,6 @@
     "원티드 프리온보딩 챌린지 사전 과제/5번 문제.md",
     "원티드 프리온보딩 챌린지 사전 과제/3번 문제.md",
     "Untitled.md",
-    "Dev/OS/XV6/Refactoring scheduler.md",
     "Dev/OS/XV6/Untitled.md",
     "원티드 프리온보딩 챌린지 사전 과제",
     "Dev/Linux/grep.md",
