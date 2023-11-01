@@ -117,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dev/Spring boot/Hibernate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dev/Spring boot/Hibernate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +166,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dev/Spring boot/Hibernate.md"
+              }
             }
           }
         ]
