@@ -37,8 +37,13 @@
             "id": "ee1161185e028b50",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Dev/Network/HTTP/Status Code.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -92,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
-    "collapsed": true
+    "width": 299.5
   },
   "right": {
     "id": "2536babc4bac487d",
@@ -117,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/Spring boot/Hibernate.md",
+                "file": "Dev/Network/HTTP/Status Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/Spring boot/Hibernate.md",
+                "file": "Dev/Network/HTTP/Status Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/Spring boot/Hibernate.md"
+                "file": "Dev/Network/HTTP/Status Code.md"
               }
             }
           }
@@ -193,6 +197,12 @@
   },
   "active": "ee1161185e028b50",
   "lastOpenFiles": [
+    "Dev/Network/HTTP/HTTPS.md",
+    "Dev/Network/HTTP/HTTP Methods.md",
+    "Dev/Network/HTTP/HTTP.md",
+    "Untitled.md",
+    "소프트웨어 공학 팀프로젝트.md",
+    "Inserion Sort.md",
     "Dev/OS/XV6/Refactoring scheduler.md",
     "Dev/Spring boot/Hibernate.md",
     "원티드 프리온보딩 챌린지 사전 과제/1번 문제.md",
@@ -203,7 +213,6 @@
     "원티드 프리온보딩 챌린지 사전 과제/4번 문제.md",
     "원티드 프리온보딩 챌린지 사전 과제/5번 문제.md",
     "원티드 프리온보딩 챌린지 사전 과제/3번 문제.md",
-    "Untitled.md",
     "Dev/OS/XV6/Untitled.md",
     "원티드 프리온보딩 챌린지 사전 과제",
     "Dev/Linux/grep.md",
@@ -219,11 +228,6 @@
     "Dev/Compiler/Token.md",
     "Dev/Compiler/Terminal symbols.md",
     "Dev/Compiler/Non-terminal symbols.md",
-    "Dev/Compiler/Untitled 1.md",
-    "Dev/Compiler/Context-Free Grammar.md",
-    "Dev/Compiler/Lex.md",
-    "Dev/Spring boot/POJO.md",
-    "Dev/Spring boot/Constructor Injection.md",
     "Attatchments/CleanShot 2023-10-10 at 16.38.05@2x.png",
     "Attatchments/CleanShot 2023-10-10 at 16.28.28@2x.png",
     "Attatchments/CleanShot 2023-10-10 at 16.23.32@2x.png",
