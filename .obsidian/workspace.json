@@ -39,15 +39,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Network/HTTP/Status Code.md",
+                "file": "Dev/OS/Process State.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "38ee7a48c1031530",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +129,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/Network/HTTP/Status Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +145,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/Network/HTTP/Status Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,9 +176,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dev/Network/HTTP/Status Code.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -195,8 +199,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ee1161185e028b50",
+  "active": "38ee7a48c1031530",
   "lastOpenFiles": [
+    "Dev/OS/Process State.md",
+    "Dev/OS/Process Controll Block.md",
+    "Dev/OS/Process.md",
+    "Dev/OS/OS.md",
+    "Dev/OS/Device Controller.md",
+    "Dev/OS/Dynamic Memory Allocation.md",
+    "Dev/OS/CPU Scheduling.md",
+    "Dev/OS/AST.md",
+    "Dev/Network/HTTP/Status Code.md",
     "Dev/Network/HTTP/HTTPS.md",
     "Dev/Network/HTTP/HTTP Methods.md",
     "Dev/Network/HTTP/HTTP.md",
@@ -217,17 +230,8 @@
     "원티드 프리온보딩 챌린지 사전 과제",
     "Dev/Linux/grep.md",
     "Dev/Linux",
-    "Dev/C++/Permutation.md",
-    "Code Snippets/Fibonacci.md",
-    "Dev/C++/Recursive Function.md",
-    "Code Snippets/Factorial.md",
     "Code Snippets",
-    "데이터베이스 중간고사 대비.md",
-    "Dev/Compiler/Compiler Grammar.md",
     "Attatchments/CleanShot 2023-10-24 at 02.03.03@2x.png",
-    "Dev/Compiler/Token.md",
-    "Dev/Compiler/Terminal symbols.md",
-    "Dev/Compiler/Non-terminal symbols.md",
     "Attatchments/CleanShot 2023-10-10 at 16.38.05@2x.png",
     "Attatchments/CleanShot 2023-10-10 at 16.28.28@2x.png",
     "Attatchments/CleanShot 2023-10-10 at 16.23.32@2x.png",
