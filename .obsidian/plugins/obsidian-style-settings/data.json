@@ -14,6 +14,5 @@
   "custom-diegoeis-obsidianotion@@size-h6": 0.67,
   "things-style@@default-font-color": true,
   "things-style@@mobile-black-background": false,
-  "things-style@@fancy-code": true,
-  "things-style@@no-minimal-title-bar": true
+  "things-style@@fancy-code": true
 }
