@@ -50,8 +50,13 @@
             "id": "38ee7a48c1031530",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Dev/MySQL/Untitled.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -105,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "right": {
     "id": "2536babc4bac487d",
@@ -129,6 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dev/MySQL/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dev/MySQL/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +184,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dev/MySQL/Untitled.md"
+              }
             }
           }
         ]
@@ -201,6 +211,8 @@
   },
   "active": "38ee7a48c1031530",
   "lastOpenFiles": [
+    "Dev/MySQL/Untitled.md",
+    "Dev/MySQL",
     "Dev/OS/Process State.md",
     "Dev/OS/Process Controll Block.md",
     "Dev/OS/Process.md",
@@ -228,7 +240,6 @@
     "원티드 프리온보딩 챌린지 사전 과제/3번 문제.md",
     "Dev/OS/XV6/Untitled.md",
     "원티드 프리온보딩 챌린지 사전 과제",
-    "Dev/Linux/grep.md",
     "Dev/Linux",
     "Code Snippets",
     "Attatchments/CleanShot 2023-10-24 at 02.03.03@2x.png",
@@ -247,7 +258,6 @@
     "Coding test/Baek Joon",
     "Coding test/Programmers",
     "Coding test/LeetCode",
-    "Coding test",
     "Dev/Database/Untitled.canvas"
   ]
 }
