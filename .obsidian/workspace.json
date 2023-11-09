@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/MySQL/Untitled.md",
+                "file": "Dev/Network/Web 3.0.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -110,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "right": {
     "id": "2536babc4bac487d",
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/MySQL/Untitled.md",
+                "file": "Dev/Network/Web 3.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/MySQL/Untitled.md",
+                "file": "Dev/Network/Web 3.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/MySQL/Untitled.md"
+                "file": "Dev/Network/Web 3.0.md"
               }
             }
           }
