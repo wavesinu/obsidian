@@ -58,9 +58,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cad5eafe22e497ca",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "right": {
     "id": "2536babc4bac487d",
@@ -135,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/Network/Web 3.0.md",
+                "file": "Dev/Spring boot/Hibernate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/Network/Web 3.0.md",
+                "file": "Dev/Spring boot/Hibernate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/Network/Web 3.0.md"
+                "file": "Dev/Spring boot/Hibernate.md"
               }
             }
           }
@@ -206,8 +213,9 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "38ee7a48c1031530",
+  "active": "cad5eafe22e497ca",
   "lastOpenFiles": [
+    "Dev/Network/Web 3.0.md",
     "Dev/MySQL/Untitled.md",
     "Dev/MySQL",
     "Dev/OS/Process State.md",
@@ -235,7 +243,6 @@
     "원티드 프리온보딩 챌린지 사전 과제/4번 문제.md",
     "원티드 프리온보딩 챌린지 사전 과제/5번 문제.md",
     "원티드 프리온보딩 챌린지 사전 과제/3번 문제.md",
-    "Dev/OS/XV6/Untitled.md",
     "원티드 프리온보딩 챌린지 사전 과제",
     "Dev/Linux",
     "Code Snippets",
