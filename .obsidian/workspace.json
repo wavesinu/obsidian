@@ -11,8 +11,13 @@
             "id": "cad5eafe22e497ca",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Dev/OS/XV6/HW-3.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dev/OS/XV6/HW-3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dev/OS/XV6/HW-3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dev/OS/XV6/HW-3.md"
+              }
             }
           }
         ]
@@ -162,6 +171,9 @@
   },
   "active": "cad5eafe22e497ca",
   "lastOpenFiles": [
+    "Dev/MySQL/MySQL Trigger.md",
+    "Dev/OS/XV6/HW-3.md",
+    "Dev/SQL/Trigger.md",
     "Dev/OS/Mutex.md",
     "Dev/OS/Thread.md",
     "Dev/Network/Web 3.0.md",
@@ -186,10 +198,7 @@
     "Inserion Sort.md",
     "원티드 프리온보딩 챌린지 사전 과제/1번 문제.md",
     "원티드 프리온보딩 챌린지 사전 과제/2번 문제.md",
-    "Dev/Network/TCP.md",
-    "Dev/Network/UDP.md",
     "Attatchments/CleanShot 2023-10-30 at 12.40.35@2x.png",
-    "원티드 프리온보딩 챌린지 사전 과제/4번 문제.md",
     "원티드 프리온보딩 챌린지 사전 과제",
     "Dev/Linux",
     "Code Snippets",
