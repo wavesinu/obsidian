@@ -11,13 +11,8 @@
             "id": "cad5eafe22e497ca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/OS/Mutex.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -95,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/OS/Mutex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/OS/Mutex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dev/OS/Mutex.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,6 +162,7 @@
   },
   "active": "cad5eafe22e497ca",
   "lastOpenFiles": [
+    "Dev/OS/Mutex.md",
     "Dev/OS/Thread.md",
     "Dev/Network/Web 3.0.md",
     "Dev/OS/Process State.md",
@@ -198,7 +190,6 @@
     "Dev/Network/UDP.md",
     "Attatchments/CleanShot 2023-10-30 at 12.40.35@2x.png",
     "원티드 프리온보딩 챌린지 사전 과제/4번 문제.md",
-    "원티드 프리온보딩 챌린지 사전 과제/5번 문제.md",
     "원티드 프리온보딩 챌린지 사전 과제",
     "Dev/Linux",
     "Code Snippets",
