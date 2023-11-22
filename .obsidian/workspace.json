@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MySQL/Aggregate Functions.md",
+                "file": "OS/Deadlock.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL/Aggregate Functions.md",
+                "file": "OS/Deadlock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MySQL/Aggregate Functions.md",
+                "file": "OS/Deadlock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MySQL/Aggregate Functions.md"
+                "file": "OS/Deadlock.md"
               }
             }
           }
@@ -235,9 +235,10 @@
   },
   "active": "f2c58e0c6c0c8caf",
   "lastOpenFiles": [
+    "OS/Untitled.md",
+    "MySQL/Aggregate Functions.md",
     "MySQL/MAX.md",
     "MySQL/AVG.md",
-    "MySQL/Aggregate Functions.md",
     "MySQL/COUNT.md",
     "MySQL/SUM.md",
     "MySQL/MIN.md",
@@ -261,7 +262,6 @@
     "SQL/참조 무결성 제약 조건.md",
     "SQL/엔티티 무결성 제약조건.md",
     "SQL/도메인 제약조건.md",
-    "SQL/Untitled.md",
     "SQL",
     "Spring boot/Thymeleaf",
     "Spring boot",
