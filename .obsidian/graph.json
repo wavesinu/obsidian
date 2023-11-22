@@ -8,42 +8,42 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Dev/Design Patterns\"  ",
+      "query": "path:\"Design Patterns\"",
       "color": {
         "a": 1,
         "rgb": 8862523
       }
     },
     {
-      "query": "path:Dev/Network  ",
+      "query": "path:\"Network\"  ",
       "color": {
         "a": 1,
         "rgb": 10650180
       }
     },
     {
-      "query": "path:Dev/OS  ",
+      "query": "path:\"OS\"",
       "color": {
         "a": 1,
         "rgb": 5205336
       }
     },
     {
-      "query": "path:Dev/Algorithms  ",
+      "query": "path:\"Algorithms\"",
       "color": {
         "a": 1,
         "rgb": 4357274
       }
     },
     {
-      "query": "path:\"Dev/Data Structures\"  ",
+      "query": "path:\"Data Structures\"  ",
       "color": {
         "a": 1,
         "rgb": 4364924
       }
     },
     {
-      "query": "path:\"Dev/Spring boot\"  ",
+      "query": "path:\"Spring boot\" ",
       "color": {
         "a": 1,
         "rgb": 7750849
@@ -60,6 +60,6 @@
   "repelStrength": 17.8466796875,
   "linkStrength": 1,
   "linkDistance": 265,
-  "scale": 0.43032836149488185,
-  "close": true
+  "scale": 0.5639808232161703,
+  "close": false
 }

@@ -4,16 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "ba76b04ee26c8f99",
+        "id": "521548d0f6a3d060",
         "type": "tabs",
         "children": [
           {
-            "id": "cad5eafe22e497ca",
+            "id": "f2c58e0c6c0c8caf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/OS/XV6/HW-3.md",
+                "file": "MySQL/Aggregate Functions.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f645830000614052",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MySQL/AVG.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c911ac5708010a06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MySQL/COUNT.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73d254b8b20dd462",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MySQL/SUM.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8cb888f15119d7b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MySQL/MIN.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94cbc95190c7d73d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MySQL/MAX.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "right": {
     "id": "2536babc4bac487d",
@@ -95,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/OS/XV6/HW-3.md",
+                "file": "MySQL/Aggregate Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/OS/XV6/HW-3.md",
+                "file": "MySQL/Aggregate Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/OS/XV6/HW-3.md"
+                "file": "MySQL/Aggregate Functions.md"
               }
             }
           }
@@ -169,39 +233,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cad5eafe22e497ca",
+  "active": "f2c58e0c6c0c8caf",
   "lastOpenFiles": [
-    "Dev/MySQL/MySQL Trigger.md",
-    "Dev/OS/XV6/HW-3.md",
-    "Dev/SQL/Trigger.md",
-    "Dev/OS/Mutex.md",
-    "Dev/OS/Thread.md",
-    "Dev/Network/Web 3.0.md",
-    "Dev/OS/Process State.md",
-    "Dev/OS/XV6/Refactoring scheduler.md",
-    "Dev/Spring boot/Hibernate.md",
-    "Dev/MySQL/Untitled.md",
-    "Dev/MySQL",
-    "Dev/OS/Process Controll Block.md",
-    "Dev/OS/Process.md",
-    "Dev/OS/OS.md",
-    "Dev/OS/Device Controller.md",
-    "Dev/OS/Dynamic Memory Allocation.md",
-    "Dev/OS/CPU Scheduling.md",
-    "Dev/OS/AST.md",
-    "Dev/Network/HTTP/Status Code.md",
-    "Dev/Network/HTTP/HTTPS.md",
-    "Dev/Network/HTTP/HTTP Methods.md",
-    "Dev/Network/HTTP/HTTP.md",
-    "Untitled.md",
-    "소프트웨어 공학 팀프로젝트.md",
+    "MySQL/MAX.md",
+    "MySQL/AVG.md",
+    "MySQL/Aggregate Functions.md",
+    "MySQL/COUNT.md",
+    "MySQL/SUM.md",
+    "MySQL/MIN.md",
     "Inserion Sort.md",
-    "원티드 프리온보딩 챌린지 사전 과제/1번 문제.md",
-    "원티드 프리온보딩 챌린지 사전 과제/2번 문제.md",
+    "Wikis/워터폴 방법론.md",
+    "Wikis/애자일 방법론.md",
+    "Wikis/SRP.md",
+    "Wikis/SOLID Principle.md",
+    "Wikis/Polymorphism.md",
+    "Wikis/OOP Principle.md",
+    "Wikis/OCP.md",
+    "Wikis/LSP.md",
+    "Wikis/Inheritance.md",
+    "Wikis/ISP.md",
+    "Wikis/Encapsulation.md",
+    "Wikis/DIP.md",
+    "Wikis/Abstraction.md",
+    "Wikis",
+    "SQL/키 제약 조건.md",
+    "SQL/참조 무결성 제약조건.md",
+    "SQL/참조 무결성 제약 조건.md",
+    "SQL/엔티티 무결성 제약조건.md",
+    "SQL/도메인 제약조건.md",
+    "SQL/Untitled.md",
+    "SQL",
+    "Spring boot/Thymeleaf",
+    "Spring boot",
+    "OS/XV6",
+    "OS",
+    "Network/Security",
+    "Network/OSI 7 Layer",
+    "Network/HTTP",
+    "Network",
     "Attatchments/CleanShot 2023-10-30 at 12.40.35@2x.png",
-    "원티드 프리온보딩 챌린지 사전 과제",
-    "Dev/Linux",
-    "Code Snippets",
     "Attatchments/CleanShot 2023-10-24 at 02.03.03@2x.png",
     "Attatchments/CleanShot 2023-10-10 at 16.38.05@2x.png",
     "Attatchments/CleanShot 2023-10-10 at 16.28.28@2x.png",
@@ -212,12 +282,6 @@
     "Attatchments/Pasted image 20231009161151.png",
     "Attatchments/Pasted image 20231009161126.png",
     "Untitled.canvas",
-    "<center>Pasted image 20231001204318.png<",
-    "Dev/Computer Architecture",
-    "Dev/Network/HTTP",
-    "Coding test/Baek Joon",
-    "Coding test/Programmers",
-    "Coding test/LeetCode",
     "Dev/Database/Untitled.canvas"
   ]
 }
