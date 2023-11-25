@@ -6,6 +6,27 @@
       {
         "id": "521548d0f6a3d060",
         "type": "tabs",
+        "dimension": 47.74881516587678,
+        "children": [
+          {
+            "id": "eaefa7334b88abbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OS/Memory Management.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "9f9a1017b89e693f",
+        "type": "tabs",
+        "dimension": 52.25118483412322,
         "children": [
           {
             "id": "f2c58e0c6c0c8caf",
@@ -13,73 +34,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/Deadlock.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f645830000614052",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MySQL/AVG.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c911ac5708010a06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MySQL/COUNT.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73d254b8b20dd462",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MySQL/SUM.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8cb888f15119d7b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MySQL/MIN.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94cbc95190c7d73d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MySQL/MAX.md",
-                "mode": "source",
+                "file": "OS/Virtual Memory.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -135,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 323.5,
+    "collapsed": true
   },
   "right": {
     "id": "2536babc4bac487d",
@@ -159,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/Deadlock.md",
+                "file": "OS/Virtual Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/Deadlock.md",
+                "file": "OS/Virtual Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/Deadlock.md"
+                "file": "OS/Virtual Memory.md"
               }
             }
           }
@@ -235,6 +192,9 @@
   },
   "active": "f2c58e0c6c0c8caf",
   "lastOpenFiles": [
+    "OS/Memory Management.md",
+    "OS/Virtual Memory.md",
+    "OS/Deadlock.md",
     "OS/Untitled.md",
     "MySQL/Aggregate Functions.md",
     "MySQL/MAX.md",
@@ -259,9 +219,6 @@
     "Wikis",
     "SQL/키 제약 조건.md",
     "SQL/참조 무결성 제약조건.md",
-    "SQL/참조 무결성 제약 조건.md",
-    "SQL/엔티티 무결성 제약조건.md",
-    "SQL/도메인 제약조건.md",
     "SQL",
     "Spring boot/Thymeleaf",
     "Spring boot",
