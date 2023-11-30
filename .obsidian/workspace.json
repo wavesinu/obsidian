@@ -4,29 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "521548d0f6a3d060",
-        "type": "tabs",
-        "dimension": 47.74881516587678,
-        "children": [
-          {
-            "id": "eaefa7334b88abbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OS/Memory Management.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "9f9a1017b89e693f",
         "type": "tabs",
-        "dimension": 52.25118483412322,
         "children": [
           {
             "id": "f2c58e0c6c0c8caf",
@@ -34,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/Virtual Memory.md",
-                "mode": "preview",
+                "file": "Database/Transaction.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -116,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/Virtual Memory.md",
+                "file": "Database/Transaction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/Virtual Memory.md",
+                "file": "Database/Transaction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/Virtual Memory.md"
+                "file": "Database/Transaction.md"
               }
             }
           }
@@ -192,8 +171,8 @@
   },
   "active": "f2c58e0c6c0c8caf",
   "lastOpenFiles": [
-    "OS/Memory Management.md",
     "OS/Virtual Memory.md",
+    "OS/Memory Management.md",
     "OS/Deadlock.md",
     "OS/Untitled.md",
     "MySQL/Aggregate Functions.md",
