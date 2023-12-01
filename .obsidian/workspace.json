@@ -8,16 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f2c58e0c6c0c8caf",
+            "id": "c29edaf08d76e760",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Transaction.md",
+                "file": "MySQL/CTE.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92b59a8094cc5fb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MySQL/Derived table.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "7efee26e7180f3ea",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -95,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Transaction.md",
+                "file": "MySQL/CTE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Transaction.md",
+                "file": "MySQL/CTE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Transaction.md"
+                "file": "MySQL/CTE.md"
               }
             }
           }
@@ -169,8 +190,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f2c58e0c6c0c8caf",
+  "active": "c29edaf08d76e760",
   "lastOpenFiles": [
+    "MySQL/Derived table.md",
+    "MySQL/CTE.md",
+    "MySQL/VIEW.md",
+    "TLB.md",
+    "Database/Transaction.md",
     "OS/Virtual Memory.md",
     "OS/Memory Management.md",
     "OS/Deadlock.md",
@@ -192,12 +218,7 @@
     "Wikis/LSP.md",
     "Wikis/Inheritance.md",
     "Wikis/ISP.md",
-    "Wikis/Encapsulation.md",
-    "Wikis/DIP.md",
-    "Wikis/Abstraction.md",
     "Wikis",
-    "SQL/키 제약 조건.md",
-    "SQL/참조 무결성 제약조건.md",
     "SQL",
     "Spring boot/Thymeleaf",
     "Spring boot",
