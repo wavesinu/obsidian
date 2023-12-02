@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MySQL/CTE.md",
-                "mode": "preview",
+                "file": "OS/Untitled 1.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -91,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5,
-    "collapsed": true
+    "width": 323.5
   },
   "right": {
     "id": "2536babc4bac487d",
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL/CTE.md",
+                "file": "OS/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MySQL/CTE.md",
+                "file": "OS/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MySQL/CTE.md"
+                "file": "OS/Untitled 1.md"
               }
             }
           }
@@ -192,8 +191,9 @@
   },
   "active": "c29edaf08d76e760",
   "lastOpenFiles": [
-    "MySQL/Derived table.md",
     "MySQL/CTE.md",
+    "OS/Untitled 1.md",
+    "MySQL/Derived table.md",
     "MySQL/VIEW.md",
     "TLB.md",
     "Database/Transaction.md",
@@ -217,7 +217,6 @@
     "Wikis/OCP.md",
     "Wikis/LSP.md",
     "Wikis/Inheritance.md",
-    "Wikis/ISP.md",
     "Wikis",
     "SQL",
     "Spring boot/Thymeleaf",
