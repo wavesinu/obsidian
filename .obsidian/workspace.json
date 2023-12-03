@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/Untitled 1.md",
-                "mode": "source",
+                "file": "SQL/Transaction.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -91,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 323.5,
+    "collapsed": true
   },
   "right": {
     "id": "2536babc4bac487d",
@@ -115,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/Untitled 1.md",
+                "file": "SQL/Transaction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/Untitled 1.md",
+                "file": "SQL/Transaction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/Untitled 1.md"
+                "file": "SQL/Transaction.md"
               }
             }
           }
@@ -191,12 +192,16 @@
   },
   "active": "c29edaf08d76e760",
   "lastOpenFiles": [
-    "MySQL/CTE.md",
+    "Database/RDBMS.md",
+    "Database/DBMS의 분류.md",
+    "Database/DBMS 언어.md",
+    "SQL/Transaction.md",
+    "Database/Schema.md",
     "OS/Untitled 1.md",
+    "MySQL/CTE.md",
     "MySQL/Derived table.md",
     "MySQL/VIEW.md",
     "TLB.md",
-    "Database/Transaction.md",
     "OS/Virtual Memory.md",
     "OS/Memory Management.md",
     "OS/Deadlock.md",
@@ -213,10 +218,6 @@
     "Wikis/SRP.md",
     "Wikis/SOLID Principle.md",
     "Wikis/Polymorphism.md",
-    "Wikis/OOP Principle.md",
-    "Wikis/OCP.md",
-    "Wikis/LSP.md",
-    "Wikis/Inheritance.md",
     "Wikis",
     "SQL",
     "Spring boot/Thymeleaf",
