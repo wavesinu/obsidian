@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Transaction.md",
-                "mode": "preview",
+                "file": "SQL/상관 중첩 질의.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -41,7 +41,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Transaction.md",
+                "file": "SQL/상관 중첩 질의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Transaction.md",
+                "file": "SQL/상관 중첩 질의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Transaction.md"
+                "file": "SQL/상관 중첩 질의.md"
               }
             }
           }
@@ -190,16 +191,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c29edaf08d76e760",
+  "active": "7efee26e7180f3ea",
   "lastOpenFiles": [
+    "MySQL/Derived table.md",
+    "SQL/상관 중첩 질의.md",
+    "SQL/중첩 질의.md",
+    "SQL/Transaction.md",
     "Database/RDBMS.md",
     "Database/DBMS의 분류.md",
     "Database/DBMS 언어.md",
-    "SQL/Transaction.md",
     "Database/Schema.md",
     "OS/Untitled 1.md",
     "MySQL/CTE.md",
-    "MySQL/Derived table.md",
     "MySQL/VIEW.md",
     "TLB.md",
     "OS/Virtual Memory.md",
@@ -216,8 +219,6 @@
     "Wikis/워터폴 방법론.md",
     "Wikis/애자일 방법론.md",
     "Wikis/SRP.md",
-    "Wikis/SOLID Principle.md",
-    "Wikis/Polymorphism.md",
     "Wikis",
     "SQL",
     "Spring boot/Thymeleaf",
