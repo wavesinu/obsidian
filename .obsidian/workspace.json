@@ -37,8 +37,13 @@
             "id": "7efee26e7180f3ea",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Compiler/Semantics.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -117,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/상관 중첩 질의.md",
+                "file": "Compiler/Semantics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/상관 중첩 질의.md",
+                "file": "Compiler/Semantics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/상관 중첩 질의.md"
+                "file": "Compiler/Semantics.md"
               }
             }
           }
@@ -185,11 +190,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": true
+      "command-palette:Open command palette": true,
+      "obsidian-rich-links:Rich Links": false,
+      "copilot:Copilot Chat": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "7efee26e7180f3ea",
   "lastOpenFiles": [
+    "Attatchments/CleanShot 2023-12-04 at 13.05.07@2x.png",
+    "Compiler/Semantics.md",
     "MySQL/Derived table.md",
     "SQL/상관 중첩 질의.md",
     "SQL/중첩 질의.md",
@@ -214,8 +224,6 @@
     "MySQL/MIN.md",
     "Inserion Sort.md",
     "Wikis/워터폴 방법론.md",
-    "Wikis/애자일 방법론.md",
-    "Wikis/SRP.md",
     "Wikis",
     "SQL",
     "Spring boot/Thymeleaf",
