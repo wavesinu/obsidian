@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 7750849
       }
+    },
+    {
+      "query": "path:Java  ",
+      "color": {
+        "a": 1,
+        "rgb": 9869053
+      }
     }
   ],
   "collapse-display": false,
@@ -60,6 +67,6 @@
   "repelStrength": 17.8466796875,
   "linkStrength": 1,
   "linkDistance": 265,
-  "scale": 0.35861553404158125,
-  "close": true
+  "scale": 0.3357225699579988,
+  "close": false
 }

@@ -1,0 +1,1 @@
+>Java7부터 java.lang 패키지에 `AutoCloseable` 인터페이스가 추가되었음.

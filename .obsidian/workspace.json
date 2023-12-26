@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c29edaf08d76e760",
+            "id": "54a93abd9d0a30e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/상관 중첩 질의.md",
+                "file": "Java/InterruptedException.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,33 +21,19 @@
             }
           },
           {
-            "id": "92b59a8094cc5fb5",
+            "id": "897e36af48713ff8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MySQL/Derived table.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7efee26e7180f3ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compiler/Semantics.md",
+                "file": "Java/Exceptions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5,
-    "collapsed": true
+    "width": 323.5
   },
   "right": {
     "id": "2536babc4bac487d",
@@ -122,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compiler/Semantics.md",
+                "file": "Java/InterruptedException.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compiler/Semantics.md",
+                "file": "Java/InterruptedException.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compiler/Semantics.md"
+                "file": "Java/InterruptedException.md"
               }
             }
           }
@@ -196,12 +181,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7efee26e7180f3ea",
+  "active": "54a93abd9d0a30e2",
   "lastOpenFiles": [
-    "Attatchments/CleanShot 2023-12-04 at 13.05.07@2x.png",
-    "Compiler/Semantics.md",
+    "Java/Exceptions.md",
+    "Java/InterruptedException.md",
     "MySQL/Derived table.md",
     "SQL/상관 중첩 질의.md",
+    "Java/AutoCloseable.md",
+    "Java/idempotent.md",
+    "Java/Closing Connection, Statement, ResultSet.md",
+    "Compiler/Semantics.md",
+    "Attatchments/CleanShot 2023-12-04 at 13.05.07@2x.png",
     "SQL/중첩 질의.md",
     "SQL/Transaction.md",
     "Database/RDBMS.md",
@@ -220,10 +210,6 @@
     "MySQL/MAX.md",
     "MySQL/AVG.md",
     "MySQL/COUNT.md",
-    "MySQL/SUM.md",
-    "MySQL/MIN.md",
-    "Inserion Sort.md",
-    "Wikis/워터폴 방법론.md",
     "Wikis",
     "SQL",
     "Spring boot/Thymeleaf",
@@ -243,7 +229,6 @@
     "Attatchments/CleanShot 2023-10-10 at 16.15.48@2x.png",
     "Attatchments/CleanShot 2023-10-10 at 15.12.56@2x.png",
     "Attatchments/Pasted image 20231009161151.png",
-    "Attatchments/Pasted image 20231009161126.png",
     "Untitled.canvas",
     "Dev/Database/Untitled.canvas"
   ]
