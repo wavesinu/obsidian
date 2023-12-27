@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9f9a1017b89e693f",
+        "id": "f16c8ea34363d4e0",
         "type": "tabs",
         "children": [
           {
-            "id": "54a93abd9d0a30e2",
+            "id": "1dcbf9d04b6cd083",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/InterruptedException.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "897e36af48713ff8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Exceptions.md",
+                "file": "Java/NullPointerException.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/InterruptedException.md",
+                "file": "Java/NullPointerException.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/InterruptedException.md",
+                "file": "Java/NullPointerException.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/InterruptedException.md"
+                "file": "Java/NullPointerException.md"
               }
             }
           }
@@ -181,10 +168,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "54a93abd9d0a30e2",
+  "active": "1dcbf9d04b6cd083",
   "lastOpenFiles": [
-    "Java/Exceptions.md",
+    "Java/NullPointerException.md",
+    "Java/Null.md",
+    "Java/클래스가 필요한 이유.md",
+    "Java/Class.md",
+    "Java/Array in Java.md",
+    "Java/객체 지향 프로그래밍.md",
+    "Java/절차 지향 프로그래밍.md",
     "Java/InterruptedException.md",
+    "Java/Exceptions.md",
     "MySQL/Derived table.md",
     "SQL/상관 중첩 질의.md",
     "Java/AutoCloseable.md",
@@ -203,13 +197,6 @@
     "MySQL/VIEW.md",
     "TLB.md",
     "OS/Virtual Memory.md",
-    "OS/Memory Management.md",
-    "OS/Deadlock.md",
-    "OS/Untitled.md",
-    "MySQL/Aggregate Functions.md",
-    "MySQL/MAX.md",
-    "MySQL/AVG.md",
-    "MySQL/COUNT.md",
     "Wikis",
     "SQL",
     "Spring boot/Thymeleaf",
