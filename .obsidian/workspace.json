@@ -19,8 +19,32 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7b71f9d5cca5f5c8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
+          },
+          {
+            "id": "3c023e19dd43b602",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DDD(Domain Drivem Design).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -70,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 323.5,
+    "collapsed": true
   },
   "right": {
     "id": "2536babc4bac487d",
@@ -94,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/NullPointerException.md",
+                "file": "DDD(Domain Drivem Design).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/NullPointerException.md",
+                "file": "DDD(Domain Drivem Design).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +148,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -144,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/NullPointerException.md"
+                "file": "DDD(Domain Drivem Design).md"
               }
             }
           }
@@ -168,8 +195,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1dcbf9d04b6cd083",
+  "active": "3c023e19dd43b602",
   "lastOpenFiles": [
+    "MSA.md",
+    "DDD(Domain Drivem Design).md",
     "Java/NullPointerException.md",
     "Java/Null.md",
     "Java/클래스가 필요한 이유.md",
@@ -195,8 +224,6 @@
     "OS/Untitled 1.md",
     "MySQL/CTE.md",
     "MySQL/VIEW.md",
-    "TLB.md",
-    "OS/Virtual Memory.md",
     "Wikis",
     "SQL",
     "Spring boot/Thymeleaf",
